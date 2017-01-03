@@ -8,18 +8,31 @@ public class BallEmitter : MonoBehaviour
     [Range(0, 5)]
     public float ForceMultiplier = 1f;
 
+    private bool _emit = false;
+
     private Vector3 _emitterLocation;
     
+
     // Use this for initialization
     void Start()
     {
         _emitterLocation = gameObject.transform.position;
+    }
+
+    public void StartEmitting()
+    {
+        _emit = true;
         StartCoroutine(SpawnObjects());
+    }
+
+    public void StopEmitting()
+    {
+        _emit = false;
     }
 
     private IEnumerator SpawnObjects()
     {
-        while (true)
+        while (_emit)
         {
             float size = Random.Range(0.4f, 1f);
             var go = Instantiate(Go, _emitterLocation, Quaternion.identity);
@@ -34,7 +47,7 @@ public class BallEmitter : MonoBehaviour
     {
         yield return new WaitForSeconds(waitTime);
         go.GetComponent<Rigidbody>().isKinematic = false;
-        go.GetComponent<Rigidbody>().AddForce(new Vector3(Random.Range(-1f, 1f) * ForceMultiplier, 0, Random.Range(0f, 1f) * ForceMultiplier), ForceMode.Impulse);
+        //go.GetComponent<Rigidbody>().AddForce(new Vector3(Random.Range(-1f, 1f) * ForceMultiplier, 0, Random.Range(0f, 1f) * ForceMultiplier), ForceMode.Impulse);
 
     }
 }

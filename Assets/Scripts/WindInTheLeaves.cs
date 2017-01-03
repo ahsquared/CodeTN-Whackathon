@@ -9,11 +9,11 @@ public class WindInTheLeaves : MonoBehaviour {
     public float TurningRate = 10f;
     // Rotation we should blend towards.
     private Quaternion _targetRotation = Quaternion.identity;
-    
+    private float _jitterAmount = 1f;
     // Use this for initialization
     void Start () {
         _targetRotation = Quaternion.Euler(transform.rotation.eulerAngles);
-        TimersManager.SetLoopableTimer(this, 1f, UpdateWind);
+        TimersManager.SetLoopableTimer(this, 0.1f, UpdateWind);
     }
 	
 	// Update is called once per frame
@@ -23,8 +23,10 @@ public class WindInTheLeaves : MonoBehaviour {
 
     void UpdateWind()
     {
-        Debug.Log("wind");
-        var angles = new Vector3(transform.rotation.eulerAngles.x + Random.Range(-10f, 10f), transform.rotation.eulerAngles.y + Random.Range(-3f, 3f), transform.rotation.eulerAngles.z + Random.Range(-3f, 3f));
+        var angles = new Vector3(
+            transform.rotation.eulerAngles.x + Random.Range(-_jitterAmount, _jitterAmount), 
+            transform.rotation.eulerAngles.y + Random.Range(-_jitterAmount, _jitterAmount), 
+            transform.rotation.eulerAngles.z + Random.Range(-_jitterAmount, _jitterAmount));
         _targetRotation = Quaternion.Euler(angles);
     }
    

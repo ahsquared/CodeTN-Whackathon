@@ -42,6 +42,7 @@ public class Ball : MonoBehaviour {
             //gameObject.GetComponentInChildren<MeshRenderer>().material.color = Color.red;
             gameObject.GetComponentInChildren<MeshRenderer>().material.SetColor("_EmissionColor", new Color(0.964f, 0.8f, 0.262f));
             gameObject.GetComponent<Rigidbody>().AddForce(collision.impulse, ForceMode.Impulse);
+            GameObject.Find("GameManager").GetComponent<GameManager>().UpdateScore(collision.gameObject.name);
         }
     }
 
