@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="75">
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3653857420" DateHigh="30566159"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="3730979276" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="3731129278" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\CodeTN Kinect Game_WwiseProject.wproj" DateLow="3730392992" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="3653802419" DateHigh="30566159"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="3731049266" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="2393359220" DateHigh="30566039"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="3731009275" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Effects\Default Work Unit.wwu" DateLow="3731089414" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Effects\Factory Effects.wwu" DateLow="2395179573" DateHigh="30566039"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Events\Default Work Unit.wwu" DateLow="3653907417" DateHigh="30566159"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="3730683258" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="3731259307" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="3730463015" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="3731179283" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="3730849280" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Presets\Default Work Unit.wwu" DateLow="3730889280" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Queries\Default Work Unit.wwu" DateLow="3731219414" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Queries\Factory Queries.wwu" DateLow="2393219166" DateHigh="30566039"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="3953522827" DateHigh="30566159"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="3730759284" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\States\Default Work Unit.wwu" DateLow="3730719427" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Switches\Default Work Unit.wwu" DateLow="3730643102" DateHigh="30566158"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="3730809469" DateHigh="30566158"/>
+</ValidationCache>

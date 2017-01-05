@@ -1,0 +1,2528 @@
+
+LICENSE SYSTEM [201714 23:47:51] No start/stop license dates set
+
+LICENSE SYSTEM [201714 23:47:51] Next license update check is after 2016-08-12T16:30:10
+
+
+LICENSE SYSTEM [201714 23:47:51] 00330-80000-00000-AA283 != 00330-80000-00000-AA209
+
+Built from '5.5/release' branch; Version is '5.5.0f3 (38b4efef76f0) revision 3716335'; Using compiler version '160040219'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 32714 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/Mono/lib/mono/2.0'
+Mono path[2] = 'C:/Program Files/Unity/Editor/Data/UnityScript'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/Mono/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56612
+
+ BATCHMODE ARGUMENTS:
+
+C:\Program Files\Unity\Editor\Unity.exe
+-batchmode
+-nographics
+-logFile
+logRunSetup.txt
+-projectPath
+D:\CodeTN Kinect Game
+-executeMethod
+WwiseSetupWizard.RunSetup
+Successfully changed project path to: D:\CodeTN Kinect Game
+D:/CodeTN Kinect Game
+Loading GUID <-> Path mappings...0.000138 seconds
+Loading Asset Database...0.013282 seconds
+Audio: FMOD Profiler initialized on port 54900
+AssetDatabase consistency checks...0.014852 seconds
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+Forcing GfxDevice: Null
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.Locator.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 27.17 ms, found 5 plugins.
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.West.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.DataContract.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.IvyParser.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\5.5.0\Unity.PackageManager.dll (this message is harmless)
+Initializing Unity.PackageManager (PackageManager) v5.5.0 for Unity v5.5.0f3
+Setting WebGL v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport
+Setting StandaloneWindows v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport
+Setting WSAPlayer v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport
+Setting Advertisements v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements
+  UnityEngine.Advertisements.dll (Extension) GUID: 739bbd9f364b4268874f9fd86ab3beef
+  Editor/UnityEditor.Advertisements.dll (Extension) GUID: 97decbdab0634cdd991f8d23ddf0dead
+Setting EditorTestsRunner v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner
+  Editor/nunit.framework.dll (Extension) GUID: 7cbab2be89b54486bbd23a6fe637d30e
+  Editor/UnityEditor.EditorTestsRunner.dll (Extension) GUID: 3c0ad459c1534645b5d603b7cc258f97
+Setting GUISystem v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem
+  UnityEngine.UI.dll (Extension) GUID: f5f67c52d1564df4a8936ccd202a3bd8
+  Standalone/UnityEngine.UI.dll (Extension) GUID: f70555f144d8491a825f0804e09c671c
+  Editor/UnityEditor.UI.dll (Extension) GUID: 80a3616ca19596e4da0f10f14d241e9f
+Setting UNetHLAPI v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking
+  UnityEngine.Networking.dll (Extension) GUID: 870353891bb340e2b2a9c8707e7419ba
+  Standalone/UnityEngine.Networking.dll (Extension) GUID: dc443db3e92b4983b9738c1131f555cb
+  Editor/UnityEditor.Networking.dll (Extension) GUID: 5f32cd94baa94578a686d4b9d6b660f7
+Setting PlaymodeTestsRunner v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner
+  Editor/UnityEditor.PlaymodeTestsRunner.dll (Extension) GUID: 4113173d5e95493ab8765d7b08371de4
+  UnityEngine.PlaymodeTestsRunner.dll (Extension) GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+Setting TreeEditor v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor
+  Editor/UnityEditor.TreeEditor.dll (Extension) GUID: adebbd281f1a4ef3a30be7f21937e02f
+Setting UnityAnalytics v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics
+  UnityEngine.Analytics.dll (Extension) GUID: 852E56802EB941638ACBB491814497B0
+  Editor/UnityEditor.Analytics.dll (Extension) GUID: 86f4de9468454445ac2f39e207fafa3a
+Setting UnityHoloLens v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens
+  Editor/UnityEditor.HoloLens.dll (Extension) GUID: 12fd8a0055b84bb59e84c9835a37e333
+  Runtime/UnityEngine.HoloLens.dll (Extension) GUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+  RuntimeEditor/UnityEngine.HoloLens.dll (Extension) GUID: 1c6d1fbb51834b64847b1b73a75bfc77
+Setting UnityPurchasing v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityPurchasing
+  UnityEngine.Purchasing.dll (Extension) GUID: 8E0CD8ED44D4412CBE0642067ABC9E44
+Setting UnityVR v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR
+  Editor/UnityEditor.VR.dll (Extension) GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+  Runtime/UnityEngine.VR.dll (Extension) GUID: 6cdf1e5c78d14720aaadccd4C792df96
+  RuntimeEditor/UnityEngine.VR.dll (Extension) GUID: 307433eba81a469ab1e2084d52d1a5a2
+Registering custom dll's ...
+Register platform support module: C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport/UnityEditor.WSA.Extensions.dll
+Register platform support module: C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.490139 seconds.
+Platform assembly: C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\5.5.0\Unity.PackageManager.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\5.5.0\Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\UnityEngine.Advertisements.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\UnityEngine.Advertisements.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\Editor\UnityEditor.Advertisements.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\Editor\UnityEditor.Advertisements.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\nunit.framework.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\nunit.framework.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\UnityEditor.EditorTestsRunner.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\UnityEditor.EditorTestsRunner.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\Editor\UnityEditor.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\Editor\UnityEditor.PlaymodeTestsRunner.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\UnityEngine.Analytics.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\Editor\UnityEditor.Analytics.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\Editor\UnityEditor.Analytics.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityPurchasing\UnityEngine.Purchasing.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityPurchasing\UnityEngine.Purchasing.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\RuntimeEditor\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\RuntimeEditor\UnityEngine.VR.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Assets\KinectScripts\LZ4Sharp\LZ4Sharp.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Assets\KinectScripts\LZ4Sharp\LZ4Sharp.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Assets\KinectScripts\SharpZipLib\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Assets\KinectScripts\SharpZipLib\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.WSA.Extensions.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.WSA.Extensions.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll (this message is harmless)
+Loading C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\nunit.core.interfaces.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 0.80 ms, found 5 plugins.
+Preloading 2 native plugins for Editor in 1.49 ms.
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\ICSharpCode.NRefactory.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\nunit.core.dll (this message is harmless)
+Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll (this message is harmless)
+Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.Mono.Cecil.dll (this message is harmless)
+Mono: successfully reloaded assembly
+- Completed reload, in  1.212 seconds
+Registering platform support modules:
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Mono.Security.dll (this message is harmless)
+Registered platform support modules in: 0.1032017s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Native extension for Metro target not found
+- starting compile Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll, for buildtarget 5
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+WeaveUnetFromEditor Temp/Assembly-CSharp-firstpass.dll
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.UNetWeaver.dll (this message is harmless)
+WeaveAssemblies unityPath= C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll
+WeaveAssemblies unetPath= C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.Pdb.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.Mdb.dll (this message is harmless)
+Symbols will be read from Temp/Assembly-CSharp-firstpass.dll.mdb
+Script Module: Assembly-CSharp-firstpass.dll
+Pass: 0 took 24 milliseconds
+Pass: 1 took 12 milliseconds
+- starting compile Library/ScriptAssemblies/Assembly-CSharp.dll, for buildtarget 5
+- starting compile Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll, for buildtarget 5
+
+-----Compiler Commandline Arguments:
+Filename: "C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe"
+Arguments: "C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5\mcs.exe"  @Temp/UnityTempFile-d4d990ae02038964a8a83cc8d69333b9
+index: 77
+Responsefile: Temp/UnityTempFile-d4d990ae02038964a8a83cc8d69333b9 Contents: 
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp/Assembly-CSharp.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll"
+-r:Assets/KinectScripts/LZ4Sharp/LZ4Sharp.dll
+-r:Assets/KinectScripts/SharpZipLib/ICSharpCode.SharpZipLib.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:"C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll"
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_5_0
+-define:UNITY_5_5
+-define:UNITY_5
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_GENERICS
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_SCRIPTING_NEW_CSHARP_COMPILER
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_VIDEO
+-define:ENABLE_VR
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_VSTU
+-define:CROSS_PLATFORM_INPUT
+Assets/KinectDemos/AvatarsDemo/Scripts/CameraPitchCorrector.cs
+Assets/KinectDemos/AvatarsDemo/Scripts/OffsetNodeMover.cs
+Assets/KinectDemos/BackgroundRemovalDemo/Scripts/ForegroundBlender.cs
+Assets/KinectDemos/BackgroundRemovalDemo/Scripts/ForegroundToImage.cs
+Assets/KinectDemos/BackgroundRemovalDemo/Scripts/WebcamSource.cs
+Assets/KinectDemos/ColliderDemo/Scripts/DepthImageViewer.cs
+Assets/KinectDemos/ColliderDemo/Scripts/EggMover.cs
+Assets/KinectDemos/ColliderDemo/Scripts/EggSpawner.cs
+Assets/KinectDemos/ColliderDemo/Scripts/HandColorOverlayer.cs
+Assets/KinectDemos/ColliderDemo/Scripts/JumpTrigger.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/ModelFaceController.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/ModelHatController.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/SetBackgroundImage.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/SetBackgroundRemovalImage.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/SetFaceTexture.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/AvatarScaler.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CategorySelector.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/CloudFaceDetector.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/CloudFaceManager.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/CloudWebTools.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/ClientError.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/Face.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FaceAttributes.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FaceLandmarks.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FaceRectangle.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FacialHair.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FeatureCoordinate.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/HeadPose.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/ModelSelector.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/OverlayController.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/UserBodyBlender.cs
+Assets/KinectDemos/GesturesDemo/Scripts/CubeGestureListener.cs
+Assets/KinectDemos/GesturesDemo/Scripts/CubePresentationScript.cs
+Assets/KinectDemos/GesturesDemo/Scripts/ModelGestureListener.cs
+Assets/KinectDemos/GesturesDemo/Scripts/ModelPresentationScript.cs
+Assets/KinectDemos/InteractionDemo/Scripts/GrabDropScript.cs
+Assets/KinectDemos/InteractionDemo/Scripts/GrabRotateScript.cs
+Assets/KinectDemos/InteractionDemo/Scripts/GuiWindowScript.cs
+Assets/KinectDemos/OverlayDemo/Scripts/HandOverlayer.cs
+Assets/KinectDemos/OverlayDemo/Scripts/JointOverlayer.cs
+Assets/KinectDemos/OverlayDemo/Scripts/LinePainter.cs
+Assets/KinectDemos/OverlayDemo/Scripts/PhotoBoothController.cs
+Assets/KinectDemos/OverlayDemo/Scripts/SkeletonOverlayer.cs
+Assets/KinectDemos/PhysicsDemo/Scripts/BallController.cs
+Assets/KinectDemos/PhysicsDemo/Scripts/BarrelTrigger.cs
+Assets/KinectDemos/RecorderDemo/Scripts/KinectPlayerController.cs
+Assets/KinectDemos/SpeechRecognitionDemo/Scripts/BotControlScript.cs
+Assets/KinectDemos/SpeechRecognitionDemo/Scripts/GameControlScript.cs
+Assets/KinectDemos/SpeechRecognitionDemo/Scripts/ThirdPersonCamera.cs
+Assets/KinectDemos/VariousDemos/Scripts/BallMover.cs
+Assets/KinectDemos/VariousDemos/Scripts/BallSpawner.cs
+Assets/KinectDemos/VariousDemos/Scripts/HeightEstimator.cs
+Assets/KinectDemos/VariousDemos/Scripts/PoseDetectorScript.cs
+Assets/KinectDemos/VariousDemos/Scripts/PoseModelHelper.cs
+Assets/KinectDemos/VariousDemos/Scripts/SceneMeshVisualizer.cs
+Assets/KinectDemos/VariousDemos/Scripts/SimpleHolographicCamera.cs
+Assets/KinectDemos/VariousDemos/Scripts/UserHeadCamera.cs
+Assets/KinectDemos/VariousDemos/Scripts/UserMeshVisualizer.cs
+Assets/KinectScripts/AvatarController.cs
+Assets/KinectScripts/AvatarControllerClassic.cs
+Assets/KinectScripts/BackgroundRemovalManager.cs
+Assets/KinectScripts/BodySlicer.cs
+Assets/KinectScripts/Cubeman/CubemanController.cs
+Assets/KinectScripts/Cubeman/PointmanController.cs
+Assets/KinectScripts/FacetrackingManager.cs
+Assets/KinectScripts/Filters/BoneOrientationsConstraint.cs
+Assets/KinectScripts/Filters/JointPositionsFilter.cs
+Assets/KinectScripts/InteractionInputModule.cs
+Assets/KinectScripts/InteractionManager.cs
+Assets/KinectScripts/Interfaces/DepthSensorInterface.cs
+Assets/KinectScripts/Interfaces/DummyK2Interface.cs
+Assets/KinectScripts/Interfaces/Kinect1Interface.cs
+Assets/KinectScripts/Interfaces/Kinect2Interface.cs
+Assets/KinectScripts/Interfaces/OpenNI2Interface.cs
+Assets/KinectScripts/KinectDataServer.cs
+Assets/KinectScripts/KinectGestures.cs
+Assets/KinectScripts/KinectInterop.cs
+Assets/KinectScripts/KinectManager.cs
+Assets/KinectScripts/KinectRecorderPlayer.cs
+Assets/KinectScripts/MultiScene/LoadFirstLevel.cs
+Assets/KinectScripts/MultiScene/LoadLevelWhenNoUser.cs
+Assets/KinectScripts/MultiScene/LoadLevelWhenUserDetected.cs
+Assets/KinectScripts/MultiScene/LoadLevelWithDelay.cs
+Assets/KinectScripts/MultiScene/LocateAvatarsAndGestureListeners.cs
+Assets/KinectScripts/PortraitBackground.cs
+Assets/KinectScripts/Samples/FollowUserRotation.cs
+Assets/KinectScripts/Samples/GetFacePointsDemo.cs
+Assets/KinectScripts/Samples/GetFaceSmileStatus.cs
+Assets/KinectScripts/Samples/GetJointPositionDemo.cs
+Assets/KinectScripts/Samples/JointOrientationView.cs
+Assets/KinectScripts/Samples/JointPositionView.cs
+Assets/KinectScripts/Samples/K2SensorChecker.cs
+Assets/KinectScripts/Samples/MouseControl.cs
+Assets/KinectScripts/Samples/PointCloudView.cs
+Assets/KinectScripts/Samples/RaiseHandListener.cs
+Assets/KinectScripts/Samples/SimpleBackgroundRemoval.cs
+Assets/KinectScripts/Samples/SimpleGestureListener.cs
+Assets/KinectScripts/Samples/SimpleInteractionListener.cs
+Assets/KinectScripts/Samples/SimpleUserMovie.cs
+Assets/KinectScripts/Samples/SimpleVisualGestureListener.cs
+Assets/KinectScripts/SpeechErrorHandler.cs
+Assets/KinectScripts/SpeechManager.cs
+Assets/KinectScripts/VisualGestureManager.cs
+Assets/Scripts/Ball.cs
+Assets/Scripts/BallEmitter.cs
+Assets/Scripts/GameManager.cs
+Assets/Scripts/WindInTheLeaves.cs
+Assets/SmartTimersManager/ScriptExamples/BlueLightFlicker.cs
+Assets/SmartTimersManager/ScriptExamples/RedLightFlicker.cs
+Assets/SmartTimersManager/TimerManager/GUI_TimersList.cs
+Assets/SmartTimersManager/TimerManager/Timer.cs
+Assets/SmartTimersManager/TimerManager/TimersManager.cs
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Xml.Linq.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.Lang.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\Boo.Lang.dll"
+-sdk:unity
+
+-----CompilerOutput:-stdout--exitcode: 0--compilationhadfailure: False--outfile: Temp/Assembly-CSharp.dll
+Compilation succeeded - 2 warning(s)
+-----CompilerOutput:-stderr----------
+Assets/KinectDemos/OverlayDemo/Scripts/LinePainter.cs(94,17): warning CS0618: `UnityEngine.LineRenderer.SetVertexCount(int)' is obsolete: `SetVertexCount has been deprecated. Please use the numPositions property instead.'
+Assets/Scripts/Ball.cs(13,15): warning CS0219: The variable `size' is assigned but its value is never used
+-----EndCompilerOutput---------------
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+WeaveUnetFromEditor Temp/Assembly-CSharp.dll
+WeaveAssemblies unityPath= C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll
+WeaveAssemblies unetPath= C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+Symbols will be read from Temp/Assembly-CSharp.dll.mdb
+Script Module: Assembly-CSharp.dll
+Pass: 0 took 6 milliseconds
+Pass: 1 took 6 milliseconds
+Assets/KinectDemos/OverlayDemo/Scripts/LinePainter.cs(94,17): warning CS0618: `UnityEngine.LineRenderer.SetVertexCount(int)' is obsolete: `SetVertexCount has been deprecated. Please use the numPositions property instead.'
+ 
+(Filename: Assets/KinectDemos/OverlayDemo/Scripts/LinePainter.cs Line: 94)
+
+Assets/Scripts/Ball.cs(13,15): warning CS0219: The variable `size' is assigned but its value is never used
+ 
+(Filename: Assets/Scripts/Ball.cs Line: 13)
+
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+WeaveUnetFromEditor Temp/Assembly-CSharp-Editor-firstpass.dll
+WeaveAssemblies unityPath= C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll
+WeaveAssemblies unetPath= C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+Symbols will be read from Temp/Assembly-CSharp-Editor-firstpass.dll.mdb
+Script Module: Assembly-CSharp-Editor-firstpass.dll
+Pass: 0 took 14 milliseconds
+Pass: 1 took 0 milliseconds
+Reloading assemblies after script compilation.
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.Locator.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.West.dll (this message is harmless)
+Registering custom dll's ...
+Register platform support module: C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport/UnityEditor.WSA.Extensions.dll
+Register platform support module: C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Core.dll (this message is harmless)
+Registered in 0.070739 seconds.
+Non platform assembly: D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\5.5.0\Unity.PackageManager.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\5.5.0\Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\UnityEngine.Advertisements.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\UnityEngine.Advertisements.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\Editor\UnityEditor.Advertisements.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\Editor\UnityEditor.Advertisements.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\nunit.framework.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\nunit.framework.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\UnityEditor.EditorTestsRunner.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\UnityEditor.EditorTestsRunner.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\Editor\UnityEditor.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\Editor\UnityEditor.PlaymodeTestsRunner.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\UnityEngine.Analytics.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\Editor\UnityEditor.Analytics.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\Editor\UnityEditor.Analytics.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityPurchasing\UnityEngine.Purchasing.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityPurchasing\UnityEngine.Purchasing.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\RuntimeEditor\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\RuntimeEditor\UnityEngine.VR.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Assets\KinectScripts\LZ4Sharp\LZ4Sharp.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Assets\KinectScripts\LZ4Sharp\LZ4Sharp.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Assets\KinectScripts\SharpZipLib\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Assets\KinectScripts\SharpZipLib\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.WSA.Extensions.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.WSA.Extensions.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll (this message is harmless)
+Loading C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\nunit.core.interfaces.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 0.78 ms, found 5 plugins.
+Preloading 2 native plugins for Editor in 0.16 ms.
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.DataContract.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\ICSharpCode.NRefactory.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.IvyParser.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\nunit.core.dll (this message is harmless)
+Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll (this message is harmless)
+Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.Mono.Cecil.dll (this message is harmless)
+Mono: successfully reloaded assembly
+- Completed reload, in  0.586 seconds
+Initializing Unity.PackageManager (PackageManager) v5.5.0 for Unity v5.5.0f3
+Setting WebGL v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport
+Setting StandaloneWindows v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport
+Setting WSAPlayer v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport
+Setting Advertisements v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements
+  UnityEngine.Advertisements.dll (Extension) GUID: 739bbd9f364b4268874f9fd86ab3beef
+  Editor/UnityEditor.Advertisements.dll (Extension) GUID: 97decbdab0634cdd991f8d23ddf0dead
+Setting EditorTestsRunner v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner
+  Editor/nunit.framework.dll (Extension) GUID: 7cbab2be89b54486bbd23a6fe637d30e
+  Editor/UnityEditor.EditorTestsRunner.dll (Extension) GUID: 3c0ad459c1534645b5d603b7cc258f97
+Setting GUISystem v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem
+  UnityEngine.UI.dll (Extension) GUID: f5f67c52d1564df4a8936ccd202a3bd8
+  Standalone/UnityEngine.UI.dll (Extension) GUID: f70555f144d8491a825f0804e09c671c
+  Editor/UnityEditor.UI.dll (Extension) GUID: 80a3616ca19596e4da0f10f14d241e9f
+Setting UNetHLAPI v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking
+  UnityEngine.Networking.dll (Extension) GUID: 870353891bb340e2b2a9c8707e7419ba
+  Standalone/UnityEngine.Networking.dll (Extension) GUID: dc443db3e92b4983b9738c1131f555cb
+  Editor/UnityEditor.Networking.dll (Extension) GUID: 5f32cd94baa94578a686d4b9d6b660f7
+Setting PlaymodeTestsRunner v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner
+  Editor/UnityEditor.PlaymodeTestsRunner.dll (Extension) GUID: 4113173d5e95493ab8765d7b08371de4
+  UnityEngine.PlaymodeTestsRunner.dll (Extension) GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+Setting TreeEditor v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor
+  Editor/UnityEditor.TreeEditor.dll (Extension) GUID: adebbd281f1a4ef3a30be7f21937e02f
+Setting UnityAnalytics v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics
+  UnityEngine.Analytics.dll (Extension) GUID: 852E56802EB941638ACBB491814497B0
+  Editor/UnityEditor.Analytics.dll (Extension) GUID: 86f4de9468454445ac2f39e207fafa3a
+Setting UnityHoloLens v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens
+  Editor/UnityEditor.HoloLens.dll (Extension) GUID: 12fd8a0055b84bb59e84c9835a37e333
+  Runtime/UnityEngine.HoloLens.dll (Extension) GUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+  RuntimeEditor/UnityEngine.HoloLens.dll (Extension) GUID: 1c6d1fbb51834b64847b1b73a75bfc77
+Setting UnityPurchasing v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityPurchasing
+  UnityEngine.Purchasing.dll (Extension) GUID: 8E0CD8ED44D4412CBE0642067ABC9E44
+Setting UnityVR v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR
+  Editor/UnityEditor.VR.dll (Extension) GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+  Runtime/UnityEngine.VR.dll (Extension) GUID: 6cdf1e5c78d14720aaadccd4C792df96
+  RuntimeEditor/UnityEngine.VR.dll (Extension) GUID: 307433eba81a469ab1e2084d52d1a5a2
+Registering platform support modules:
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.Lang.dll (this message is harmless)
+Registered platform support modules in: 0.0501292s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Native extension for Metro target not found
+Validating Project structure ... 0.011391 seconds.
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.102571 seconds
+Refresh: trashing asset 6bd18a66c03882a44afd8be193239875
+Updating Assets/Wwise/Documentation - GUID: 05aadaff9696dfd43bd26164fec5746d...
+ done. [Time: 58.450245 ms] 
+Updating Assets/Wwise/Editor - GUID: 9d4ffe7895c47d54d9b2025ffbd406af...
+ done. [Time: 14.672604 ms] 
+Updating Assets/Wwise/Gizmos - GUID: b707ab00cd89bc44b887b29814a6a438...
+ done. [Time: 13.969333 ms] 
+Updating Assets/Wwise/Tools - GUID: c4e351d606e9dc249be7ae68db8318c0...
+ done. [Time: 13.702065 ms] 
+Updating Assets/StreamingAssets/desc.txt - GUID: cae368455d404b0448b18e38de64a2bb...
+----- Compute hash for Assets/StreamingAssets/desc.txt.
+ done. [Time: 26.085449 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents - GUID: 08f691c11928b1e42a802493a2702e8e...
+ done. [Time: 14.395072 ms] 
+Updating Assets/Wwise/Documentation/AppleCommon - GUID: 38334471621b2884bbc632d380441eac...
+ done. [Time: 15.167315 ms] 
+Updating Assets/Wwise/Documentation/Windows - GUID: 482c7ecc6dacc7f459dd12864b792326...
+ done. [Time: 13.959480 ms] 
+Updating Assets/Wwise/Deployment/Components - GUID: 510a7493e943afa42b58f929daccaab3...
+ done. [Time: 13.933205 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows - GUID: 54b88297cc3bace40ae203d523c34dde...
+ done. [Time: 66.248619 ms] 
+Updating Assets/Wwise/Deployment/API - GUID: a5e9681984b78fd45a64d93a064796f6...
+ done. [Time: 15.316753 ms] 
+Updating Assets/Wwise/Editor/WwiseMenu - GUID: b7a205a844463374bbd05b46a6d5cd5c...
+ done. [Time: 14.930017 ms] 
+Updating Assets/Wwise/Tools/WwiseIDConverter.py - GUID: da6c62280ddb3ac42bd763d9efab53f7...
+----- Compute hash for Assets/Wwise/Tools/WwiseIDConverter.py.
+ done. [Time: 64.145790 ms] 
+Updating Assets/Wwise/Editor/WwiseSetupWizard - GUID: fe063a1d48c71904d84c1778ceb3c3a5...
+ done. [Time: 15.933398 ms] 
+Updating Assets/Wwise/Documentation/AppleCommon/en - GUID: 299a52a6b940228418e69a1fb47bcade...
+ done. [Time: 14.680814 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac - GUID: 3d5a57478577ade48aa1e7049a417a3a...
+ done. [Time: 14.856529 ms] 
+Updating Assets/Wwise/Documentation/Windows/ja - GUID: 56f4911a43b10a4469616ccf5f6fb4b9...
+ done. [Time: 14.830665 ms] 
+Updating Assets/Wwise/Documentation/AppleCommon/ja - GUID: 718dbbf82f6ac97469d0e53872083e62...
+ done. [Time: 14.514131 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl - GUID: 97dad0269511368408eda0d4f847dccb...
+ done. [Time: 14.410673 ms] 
+Updating Assets/Wwise/Documentation/Windows/en - GUID: a1e8005649ddedf478d59c86b14e4371...
+ done. [Time: 14.239885 ms] 
+Updating Assets/Wwise/Editor/WwiseMenu/Common - GUID: c7800b2b090d37f47be5e541ddfab23e...
+ done. [Time: 15.018696 ms] 
+Updating Assets/Wwise/Editor/WwiseMenu/Windows - GUID: cca61ee0faa7f4e4188768198b98c824...
+ done. [Time: 14.590904 ms] 
+Updating Assets/Wwise/Editor/WwiseMenu/Mac - GUID: df2704c3c04b59445bd6d10cbf835a25...
+ done. [Time: 14.727206 ms] 
+Updating Assets/Wwise/Deployment/API/Handwritten - GUID: eaf259733fa87314cad42fe855518462...
+ done. [Time: 14.962040 ms] 
+Updating Assets/Wwise/Deployment/API/Generated - GUID: fa1e5d11845962d49a80742742dc60b9...
+ done. [Time: 14.699288 ms] 
+Updating Assets/Wwise/Documentation/AppleCommon/ja/WwiseUnityIntegrationHelp_ja.zip - GUID: 00200a30d6b2e9a49beaf7d30ab8fbdb...
+----- Compute hash for Assets/Wwise/Documentation/AppleCommon/ja/WwiseUnityIntegrationHelp_ja.zip.
+ done. [Time: 20.504448 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Mac - GUID: 012e28724f706e5458be5db7cafb17d3...
+ done. [Time: 14.617590 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Release - GUID: 1f0671cb3a2f3eb40b93e958d68c72fb...
+ done. [Time: 14.846676 ms] 
+Updating Assets/Wwise/Documentation/Windows/en/WwiseUnityIntegrationHelp_en.chm - GUID: 63f01236a77f633459f50367249dffbb...
+----- Compute hash for Assets/Wwise/Documentation/Windows/en/WwiseUnityIntegrationHelp_en.chm.
+ done. [Time: 35.812172 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Profile - GUID: 74500c5497035174f9e4b919cb3eefe3...
+ done. [Time: 15.752757 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP - GUID: 7981e11f2d525c548a34ec6f437b72e5...
+ done. [Time: 14.584334 ms] 
+Updating Assets/Wwise/Documentation/AppleCommon/en/WwiseUnityIntegrationHelp_en.zip - GUID: 95f80518134a914448a236385a373566...
+----- Compute hash for Assets/Wwise/Documentation/AppleCommon/en/WwiseUnityIntegrationHelp_en.zip.
+ done. [Time: 68.209808 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Windows - GUID: a448ed68a0470bd41b312781504d7dd8...
+ done. [Time: 14.906616 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Debug - GUID: a45d4be673bb914448c64f4256739120...
+ done. [Time: 14.765388 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common - GUID: b75cf264b6c51a5428947c3ed991d78e...
+ done. [Time: 14.347858 ms] 
+Updating Assets/Wwise/Documentation/Windows/ja/WwiseUnityIntegrationHelp_ja.chm - GUID: ead67f917384b3b40804bcfd72751c13...
+----- Compute hash for Assets/Wwise/Documentation/Windows/ja/WwiseUnityIntegrationHelp_ja.chm.
+ done. [Time: 17.036955 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle - GUID: 0c55cba0739d4374ba8721ecd4e9c545...
+ done. [Time: 15.375051 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle - GUID: 5d6785264d226e4458a8e2c5937dec3f...
+ done. [Time: 15.613172 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle - GUID: b408ca86829e19a499a0a530f5e89487...
+ done. [Time: 15.628360 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/Profile/AkSoundEngine.pdb - GUID: 09dcf464ed218f9409070e4bdd64611c...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/Profile/AkSoundEngine.pdb.
+ done. [Time: 49.882092 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle/Contents - GUID: 10b155417ad3a344dadca52c16d616d9...
+ done. [Time: 23.355709 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/Release/AkSoundEngine.pdb - GUID: 1b9d35caf6a21f945b53f873c5898022...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/Release/AkSoundEngine.pdb.
+ done. [Time: 44.283024 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/Debug/AkSoundEngine.pdb - GUID: 22af3d98dee6c2449ae0889971fc87eb...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/Debug/AkSoundEngine.pdb.
+ done. [Time: 57.806911 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/Debug/AkSoundEngine.pdb - GUID: 2ab816eae0a984a48beebc91284acd28...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/Debug/AkSoundEngine.pdb.
+ done. [Time: 59.452393 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/Release/AkSoundEngine.pdb - GUID: 570476ce6ab56db4780f4f04a5c560af...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/Release/AkSoundEngine.pdb.
+ done. [Time: 41.408363 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/Profile/AkSoundEngine.pdb - GUID: b67316b81cca8a045a3845d604e72453...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/Profile/AkSoundEngine.pdb.
+ done. [Time: 42.757427 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle/Contents - GUID: d1e57cd0a6ddd6e4580b6a9a3383f4fa...
+ done. [Time: 16.957308 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle/Contents - GUID: e887792e3a644844b90218e6bcc760b4...
+ done. [Time: 16.302071 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle/Contents/Resources - GUID: 1a58f311a4d4c804289039a17f7f1b5d...
+ done. [Time: 16.451921 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle/Contents/Info.plist - GUID: 7c8c46424b3f79f4a93405e7ea7ea4bc...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle/Contents/Info.plist.
+ done. [Time: 22.126118 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle/Contents/Info.plist - GUID: 8ec5783e1c6ad314395b4caa8a6f86b3...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle/Contents/Info.plist.
+ done. [Time: 16.256912 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle/Contents/MacOS - GUID: 91edb695944b0d74181dfa740a718a5a...
+ done. [Time: 17.465567 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle/Contents/MacOS - GUID: a052c1c2a82fb1549b27dc87c74c193d...
+ done. [Time: 16.153042 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle/Contents/Info.plist - GUID: c7380fb86ba27a64fba8186d0f63e822...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle/Contents/Info.plist.
+ done. [Time: 19.490393 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle/Contents/MacOS - GUID: dadbf71575d805c4299a2798bb270bfd...
+ done. [Time: 16.944580 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle/Contents/Resources - GUID: e112a50009273a04ba3e7e7eb2ee92ca...
+ done. [Time: 16.757370 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle/Contents/Resources - GUID: f4b7ebe522a41964a878eefcf8cae1e8...
+ done. [Time: 17.595711 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle/Contents/Resources/en.lproj - GUID: 3a73467ee6ada7d4cb5e7646f58ecf62...
+ done. [Time: 15.260920 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle/Contents/Resources/en.lproj - GUID: 6247178ad1a95f0459c5437cd358df77...
+ done. [Time: 15.943252 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle/Contents/MacOS/AkSoundEngine - GUID: 81a1fc5876873eb49a14d8aa129fb9a5...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle/Contents/MacOS/AkSoundEngine.
+ done. [Time: 40.772835 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle/Contents/MacOS/AkSoundEngine - GUID: c52e4fb1f72ac3e4bae6017a9e45fb5e...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle/Contents/MacOS/AkSoundEngine.
+ done. [Time: 27.006721 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle/Contents/Resources/en.lproj - GUID: d1e1faed9b5b1264f8fe14dce4467d20...
+ done. [Time: 15.993338 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle/Contents/MacOS/AkSoundEngine - GUID: e1f900cf5042fd640b2adb4afb03f6f1...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle/Contents/MacOS/AkSoundEngine.
+ done. [Time: 29.244213 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle/Contents/Resources/en.lproj/InfoPlist.strings - GUID: 9a806a0d5be2303449d5183641ad88d6...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle/Contents/Resources/en.lproj/InfoPlist.strings.
+ done. [Time: 19.647635 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle/Contents/Resources/en.lproj/InfoPlist.strings - GUID: b348bb2a13b19ae428d162e910268b95...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle/Contents/Resources/en.lproj/InfoPlist.strings.
+ done. [Time: 16.722473 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle/Contents/Resources/en.lproj/InfoPlist.strings - GUID: e3c8115514bceeb46be98d942804dc00...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle/Contents/Resources/en.lproj/InfoPlist.strings.
+ done. [Time: 18.037050 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/DynamicSequenceType.cs - GUID: 001e494c7b116c84f88b4a397d9355cc...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/DynamicSequenceType.cs.
+ done. [Time: 60.143757 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Windows/AkSoundQuality_Windows.cs - GUID: 0339e238ad64cd642866a6a4db1d3c0c...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Windows/AkSoundQuality_Windows.cs.
+ done. [Time: 26.053427 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/AkWwiseTreeView.cs - GUID: 0378bd42adf22a34aa6e8e3197833000...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/AkWwiseTreeView.cs.
+ done. [Time: 84.077522 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/TreeViewControl.cs - GUID: 0590e4929f7c35a479e27b8caf8b4fb9...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/TreeViewControl.cs.
+ done. [Time: 30.573158 ms] 
+Updating Assets/Wwise/Deployment/API/Handwritten/AkCallbackManager.cs - GUID: 05ae0faaa10b74f48af254ebff06ab0a...
+----- Compute hash for Assets/Wwise/Deployment/API/Handwritten/AkCallbackManager.cs.
+ done. [Time: 36.634502 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Mac/AkThreadProperties_Mac.cs - GUID: 06370242c9e4e3f4182f5274c5a06b4c...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Mac/AkThreadProperties_Mac.cs.
+ done. [Time: 23.931709 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Windows/AkThreadProperties_Windows.cs - GUID: 067b6a384fe41854f8c8155a7ba05055...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Windows/AkThreadProperties_Windows.cs.
+ done. [Time: 27.972742 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkCurveInterpolation.cs - GUID: 0777d18a78536914d95227c347a6867e...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkCurveInterpolation.cs.
+ done. [Time: 21.552580 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Mac/AkMemPoolAttributes_Mac.cs - GUID: 08627158e0fb962438d87a622f16b4bb...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Mac/AkMemPoolAttributes_Mac.cs.
+ done. [Time: 21.470881 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents/AkWwiseXMLWatcher.cs - GUID: 08cd60afce55eab4dba51bc3568d1808...
+----- Compute hash for Assets/Wwise/Editor/WwiseComponents/AkWwiseXMLWatcher.cs.
+ done. [Time: 23.792944 ms] 
+Updating Assets/Wwise/Deployment/API/Handwritten/AkPositionArray.cs - GUID: 0afa579f351cac145ac4fe0125dfe514...
+----- Compute hash for Assets/Wwise/Deployment/API/Handwritten/AkPositionArray.cs.
+ done. [Time: 24.503193 ms] 
+Updating Assets/Wwise/Editor/WwiseMenu/Common/AkExampleAppBuilderBase.cs - GUID: 133494dc40f6ab343877b069453785c2...
+----- Compute hash for Assets/Wwise/Editor/WwiseMenu/Common/AkExampleAppBuilderBase.cs.
+ done. [Time: 25.341536 ms] 
+Updating Assets/Wwise/Editor/WwiseSetupWizard/AkWwiseSettingsWindow.cs - GUID: 17058c6e534903b41827a90972e5f148...
+----- Compute hash for Assets/Wwise/Editor/WwiseSetupWizard/AkWwiseSettingsWindow.cs.
+ done. [Time: 29.030727 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkConnectionType.cs - GUID: 18c24ffdfd496094681a06d57fc738c2...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkConnectionType.cs.
+ done. [Time: 20.577528 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkPanningRule.cs - GUID: 1a1e7c3ad22f36740b66a0bbf8e3f119...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkPanningRule.cs.
+ done. [Time: 21.141621 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AKRESULT.cs - GUID: 1a2d423686fbd1d4191e50be6b394b5a...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AKRESULT.cs.
+ done. [Time: 22.095736 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/Iterator.cs - GUID: 1a3b6a30e15df764795465fa745b96f1...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/Iterator.cs.
+ done. [Time: 24.622253 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents/AkBaseInspector.cs - GUID: 1ad758240756b1f49bca0936503f5ba1...
+----- Compute hash for Assets/Wwise/Editor/WwiseComponents/AkBaseInspector.cs.
+ done. [Time: 26.126503 ms] 
+Updating Assets/Wwise/Editor/WwiseMenu/Windows/AkWwiseMenu_Windows.cs - GUID: 1cf0a9e846340034d881b2e5dfff3f27...
+----- Compute hash for Assets/Wwise/Editor/WwiseMenu/Windows/AkWwiseMenu_Windows.cs.
+ done. [Time: 24.093056 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Windows/AkAudioOutputType_Windows.cs - GUID: 2327bf1132e8ff94fbf6b8a3801a6544...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Windows/AkAudioOutputType_Windows.cs.
+ done. [Time: 22.027996 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/ErrorCode.cs - GUID: 232d81986d9eb4a47bdf2fad748f6094...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/ErrorCode.cs.
+ done. [Time: 22.076851 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkPositionSourceType.cs - GUID: 235a88bcc0606474e8fb8905184f6bdd...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkPositionSourceType.cs.
+ done. [Time: 24.644835 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkSourceSettings.cs - GUID: 240e8839b8deefb4ba3b7b3801a5f8ac...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkSourceSettings.cs.
+ done. [Time: 25.043066 ms] 
+Updating Assets/Wwise/Editor/WwiseSetupWizard/AkUnitySettingsParser.cs - GUID: 245668b906b8f224ea7415846f3d5e90...
+----- Compute hash for Assets/Wwise/Editor/WwiseSetupWizard/AkUnitySettingsParser.cs.
+ done. [Time: 25.139544 ms] 
+Updating Assets/Wwise/Deployment/Components/AkGameObjPositionData.cs - GUID: 274a9d425057823498f7a250be95caf1...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkGameObjPositionData.cs.
+ done. [Time: 22.708275 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkGlobalCallbackLocation.cs - GUID: 27cd52b2efaa5464b9716b871ea252ad...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkGlobalCallbackLocation.cs.
+ done. [Time: 23.291664 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/AkWwisePicker.cs - GUID: 29d48da88b0e897429b157171f8c2f35...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/AkWwisePicker.cs.
+ done. [Time: 31.941109 ms] 
+Updating Assets/Wwise/Deployment/Components/AkState.cs - GUID: 2a62300179ce1a642aa554ec4be3601a...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkState.cs.
+ done. [Time: 24.624716 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/EnvelopePoint.cs - GUID: 2ddee177512586a4f81c4abc9acebfa8...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/EnvelopePoint.cs.
+ done. [Time: 25.588686 ms] 
+Updating Assets/Wwise/Editor/WwiseMenu/Mac/AkWwiseMenu_Mac.cs - GUID: 2eb309897d26f114eb561e4f7eb84b3f...
+----- Compute hash for Assets/Wwise/Editor/WwiseMenu/Mac/AkWwiseMenu_Mac.cs.
+ done. [Time: 22.770269 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkAuxSendValue.cs - GUID: 32fcf07c95719e2469184bb91fc254ab...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkAuxSendValue.cs.
+ done. [Time: 23.101992 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkNodeType.cs - GUID: 3588ea6d7dc5a8748be551aa0addfaf3...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkNodeType.cs.
+ done. [Time: 25.386694 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents/AkGameObjectInspector.cs - GUID: 39d27bce7ed1a684fb62e3f0922956d6...
+----- Compute hash for Assets/Wwise/Editor/WwiseComponents/AkGameObjectInspector.cs.
+ done. [Time: 26.276766 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Windows/AkMemPoolAttributes_Windows.cs - GUID: 3d027ed5c3e118c498dcbb917ebf33c5...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Windows/AkMemPoolAttributes_Windows.cs.
+ done. [Time: 22.073566 ms] 
+Updating Assets/Wwise/Deployment/Components/AkBank.cs - GUID: 3dca538822d605341a019bed54a790f7...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkBank.cs.
+ done. [Time: 23.925552 ms] 
+Updating Assets/Wwise/Deployment/Components/AkTriggerEnter.cs - GUID: 3e6a1fb980f02184789f436855bde939...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkTriggerEnter.cs.
+ done. [Time: 21.219624 ms] 
+Updating Assets/Wwise/Deployment/Components/AkAudioListener.cs - GUID: 3f57c2c173704bc4b834611795694fb0...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkAudioListener.cs.
+ done. [Time: 21.902777 ms] 
+Updating Assets/Wwise/Editor/WwiseMenu/Common/AkUnityBuilderBase.cs - GUID: 412dd30e5cd2aed44a6e84b6d0571f4d...
+----- Compute hash for Assets/Wwise/Editor/WwiseMenu/Common/AkUnityBuilderBase.cs.
+ done. [Time: 27.161907 ms] 
+Updating Assets/Wwise/Deployment/Components/AkTriggerMouseDown.cs - GUID: 412f4f0fcc557774790bb7dc47e92903...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkTriggerMouseDown.cs.
+ done. [Time: 21.137106 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkChannelEmitter.cs - GUID: 44a9cbbc7d4a4c84aa86833a143aa477...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkChannelEmitter.cs.
+ done. [Time: 23.917751 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Mac/AkSoundEnginePINVOKE_Mac.cs - GUID: 44d338683a934b74a87350b8d7db269e...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Mac/AkSoundEnginePINVOKE_Mac.cs.
+ done. [Time: 34.191734 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents/AkEventInspector.cs - GUID: 4572e60ab73a8be438627e92c2687053...
+----- Compute hash for Assets/Wwise/Editor/WwiseComponents/AkEventInspector.cs.
+ done. [Time: 34.942631 ms] 
+Updating Assets/Wwise/Editor/WwiseSetupWizard/AkSceneUtils.cs - GUID: 460580a58b3f6394a8a1c9e5e02fb44f...
+----- Compute hash for Assets/Wwise/Editor/WwiseSetupWizard/AkSceneUtils.cs.
+ done. [Time: 23.301929 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkExternalSourceInfo.cs - GUID: 46bb58265df8b81448182e0fe058bec0...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkExternalSourceInfo.cs.
+ done. [Time: 25.705282 ms] 
+Updating Assets/Wwise/Deployment/Components/AkDragDropHelper.cs - GUID: 46d0f26c84fb5254d87595b6aec501ac...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkDragDropHelper.cs.
+ done. [Time: 24.196924 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Mac/AkAudioOutputType_Mac.cs - GUID: 46e0a999961c6aa4d9bbaf54f0baf035...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Mac/AkAudioOutputType_Mac.cs.
+ done. [Time: 21.677797 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkAudioFormat.cs - GUID: 4c4f5bddb41f8c14089933e7d654dc96...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkAudioFormat.cs.
+ done. [Time: 26.041521 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/RTPCValue_type.cs - GUID: 4e72f85536fbb774d912de8d528f4cbe...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/RTPCValue_type.cs.
+ done. [Time: 22.728394 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkDeviceSettings.cs - GUID: 4ede819a207f9f04b8d879479b87d262...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkDeviceSettings.cs.
+ done. [Time: 26.084627 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/AkWwiseXMLBuilder.cs - GUID: 56b4a7f81ec9e2640a3a85366d80374b...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/AkWwiseXMLBuilder.cs.
+ done. [Time: 23.790071 ms] 
+Updating Assets/Wwise/Deployment/Components/AkTriggerMouseExit.cs - GUID: 57d153e94b3648848adb55843d4c54aa...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkTriggerMouseExit.cs.
+ done. [Time: 21.072649 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkBusType.cs - GUID: 590fa468117ae184c8f7ade2a07d3ec7...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkBusType.cs.
+ done. [Time: 20.974117 ms] 
+Updating Assets/Wwise/Deployment/Components/AkAmbient.cs - GUID: 598da29a23af992459b4bd33dbbf911e...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkAmbient.cs.
+ done. [Time: 25.444172 ms] 
+Updating Assets/Wwise/Deployment/Components/AkBasePathGetter.cs - GUID: 5aef45679985f33448fc3190a4f2e1b3...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkBasePathGetter.cs.
+ done. [Time: 32.415703 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkOutputSettings.cs - GUID: 5b12fee02aedcc349bf6f247e99ed04f...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkOutputSettings.cs.
+ done. [Time: 27.865179 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Windows/AkAudioAPI_Windows.cs - GUID: 5d65439d6a03f9949aae52de71949938...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Windows/AkAudioAPI_Windows.cs.
+ done. [Time: 22.870029 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/WwiseObjectIDext.cs - GUID: 5e5f4959bb68bc246836d7250bf57879...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/WwiseObjectIDext.cs.
+ done. [Time: 24.919491 ms] 
+Updating Assets/Wwise/Deployment/API/Handwritten/AkAuxSendArray.cs - GUID: 5e6bc2fbac4183f41b5a2f6578d6c340...
+----- Compute hash for Assets/Wwise/Deployment/API/Handwritten/AkAuxSendArray.cs.
+ done. [Time: 24.598442 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Mac/AkSoundEngine_Mac.cs - GUID: 5fbc8bb14f741414aa5f05c87191034d...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Mac/AkSoundEngine_Mac.cs.
+ done. [Time: 30.969339 ms] 
+Updating Assets/Wwise/Deployment/Components/AkGameObjPosOffsetData.cs - GUID: 60fcdd49b7303b7499fae12a15f9ea93...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkGameObjPosOffsetData.cs.
+ done. [Time: 22.862232 ms] 
+Updating Assets/Wwise/Editor/WwiseSetupWizard/AkPluginActivator.cs - GUID: 614e2c1da82d0ce4da5b636576bec46c...
+----- Compute hash for Assets/Wwise/Editor/WwiseSetupWizard/AkPluginActivator.cs.
+ done. [Time: 30.640079 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/AkWwiseProjectInfo.cs - GUID: 62e471464b2a8af4b925844bff06454d...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/AkWwiseProjectInfo.cs.
+ done. [Time: 25.929441 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Mac/AkPlatformInitSettings_Mac.cs - GUID: 64e5d41c41c1e7946a8f7b2cc2641b8f...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Mac/AkPlatformInitSettings_Mac.cs.
+ done. [Time: 23.549900 ms] 
+Updating Assets/Wwise/Deployment/Components/AkTerminator.cs - GUID: 65f8c74c69e4bf649b61fb20e7baad0b...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkTerminator.cs.
+ done. [Time: 25.630152 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents/AkStateInspector.cs - GUID: 661b69838dee75c418af97f4662b7114...
+----- Compute hash for Assets/Wwise/Editor/WwiseComponents/AkStateInspector.cs.
+ done. [Time: 21.650290 ms] 
+Updating Assets/Wwise/Editor/WwiseMenu/Common/AkWwiseIdConverter.cs - GUID: 6b497b64835655a44b9fbfede8c9c11d...
+----- Compute hash for Assets/Wwise/Editor/WwiseMenu/Common/AkWwiseIdConverter.cs.
+ done. [Time: 26.024689 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkSegmentInfo.cs - GUID: 6ba7a2279292f284c9769d8cb56b3286...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkSegmentInfo.cs.
+ done. [Time: 29.965136 ms] 
+Updating Assets/Wwise/Deployment/API/Handwritten/AkAutoObject.cs - GUID: 6bd0ab5a305f9fe41ae24206620de8da...
+----- Compute hash for Assets/Wwise/Deployment/API/Handwritten/AkAutoObject.cs.
+ done. [Time: 28.214146 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkCallbackSerializer.cs - GUID: 6c4e91da48cdc5e42bc23d0c8dbed505...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkCallbackSerializer.cs.
+ done. [Time: 25.012276 ms] 
+Updating Assets/Wwise/Deployment/Components/AkTriggerEnable.cs - GUID: 6d2c3a0927112544ba5994874893930b...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkTriggerEnable.cs.
+ done. [Time: 21.194992 ms] 
+Updating Assets/Wwise/Editor/WwiseSetupWizard/AkXboxOneUtils.cs - GUID: 6d6dcd8da09099b4db81354a6c755f9b...
+----- Compute hash for Assets/Wwise/Editor/WwiseSetupWizard/AkXboxOneUtils.cs.
+ done. [Time: 20.748726 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/Playlist.cs - GUID: 6d8326fef939eeb49866557a51504828...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/Playlist.cs.
+ done. [Time: 23.987957 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkMeteringFlags.cs - GUID: 71189bca12a535f49a7149fbf9f35ab5...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkMeteringFlags.cs.
+ done. [Time: 22.691444 ms] 
+Updating Assets/Wwise/Deployment/Components/AkMemBankLoader.cs - GUID: 71c45b41a4609fd469a8bbeca46d0ab8...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkMemBankLoader.cs.
+ done. [Time: 24.118099 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkPlaylistArray.cs - GUID: 729f95ed6188ad64d8c09809672f07c7...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkPlaylistArray.cs.
+ done. [Time: 24.567242 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/_ArrayPoolLEngineDefault.cs - GUID: 7692ab93435cec4469e93cda5afdfe25...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/_ArrayPoolLEngineDefault.cs.
+ done. [Time: 23.918983 ms] 
+Updating Assets/Wwise/Editor/WwiseMenu/Common/AkUnityPluginInstallerBase.cs - GUID: 77af8551aedfed846b3eb81a9f44bd7a...
+----- Compute hash for Assets/Wwise/Editor/WwiseMenu/Common/AkUnityPluginInstallerBase.cs.
+ done. [Time: 29.675287 ms] 
+Updating Assets/Wwise/Editor/WwiseSetupWizard/AkWwisePostImportCallbackSetup.cs - GUID: 79284155d7b377f4a8ffb2b5f586143e...
+----- Compute hash for Assets/Wwise/Editor/WwiseSetupWizard/AkWwisePostImportCallbackSetup.cs.
+ done. [Time: 42.057850 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkAudioSettings.cs - GUID: 7a9b54a4325c5b44e98e4af48cd98514...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkAudioSettings.cs.
+ done. [Time: 24.042561 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkPositioningInfo.cs - GUID: 7eaaaaec39460dd4f8dae7a0f009ee6d...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkPositioningInfo.cs.
+ done. [Time: 27.012468 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents/AkBankInspector.cs - GUID: 7fddca33e2497784885bfd2ec3f0d1a7...
+----- Compute hash for Assets/Wwise/Editor/WwiseComponents/AkBankInspector.cs.
+ done. [Time: 27.239914 ms] 
+Updating Assets/Wwise/Deployment/Components/AkGameObjPositionOffsetData.cs - GUID: 8242764f1cb66524f92c7dd2617a7707...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkGameObjPositionOffsetData.cs.
+ done. [Time: 65.658661 ms] 
+Updating Assets/Wwise/Deployment/Components/AkTriggerDisable.cs - GUID: 846e065f769ed4446919c9c957be3465...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkTriggerDisable.cs.
+ done. [Time: 26.302629 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkActionOnEventType.cs - GUID: 84c1d5a79dccf6c469cfc46821b661d2...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkActionOnEventType.cs.
+ done. [Time: 89.371544 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkPannerType.cs - GUID: 8a6a4d5b1dff526428ac5c02f51d541c...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkPannerType.cs.
+ done. [Time: 21.608826 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/AkWwiseProjectData.cs - GUID: 8e8db0f6d522b164fa369e952dc25270...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/AkWwiseProjectData.cs.
+ done. [Time: 28.458010 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkMusicSettings.cs - GUID: 8fa00f0086e87c54d85ceacbffc35e0f...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkMusicSettings.cs.
+ done. [Time: 24.212526 ms] 
+Updating Assets/Wwise/Deployment/Components/AkBankManager.cs - GUID: 91dc3262af9f00e40924a02e905d2581...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkBankManager.cs.
+ done. [Time: 23.776524 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents/AkSwitchInspector.cs - GUID: 923d8430227fb684cab3eda623331703...
+----- Compute hash for Assets/Wwise/Editor/WwiseComponents/AkSwitchInspector.cs.
+ done. [Time: 22.742352 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkMIDIPost.cs - GUID: 961af720065f7df4391e59a36bed64b9...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkMIDIPost.cs.
+ done. [Time: 24.506479 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/MultiPositionType.cs - GUID: 9677e8651e6ae3b4984a99fb0ca1418b...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/MultiPositionType.cs.
+ done. [Time: 21.701611 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/TreeViewItem.cs - GUID: 9830bce6fd89e734ebe630c3f64922e6...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/TreeViewItem.cs.
+ done. [Time: 27.481316 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkStreamMgrSettings.cs - GUID: 9af689a682d348c4096a6bdb73609634...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkStreamMgrSettings.cs.
+ done. [Time: 25.391212 ms] 
+Updating Assets/Wwise/Deployment/Components/AkUtilities.cs - GUID: 9b94e6e3ae32de4468a592a435ac3b58...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkUtilities.cs.
+ done. [Time: 28.340183 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/WwiseObjectID.cs - GUID: 9c900f6a7f619724fa844897d51a51f9...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/WwiseObjectID.cs.
+ done. [Time: 25.392033 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents/AkPortalManager.cs - GUID: 9c9baaf1178ea7946ae491eebea1d6b9...
+----- Compute hash for Assets/Wwise/Editor/WwiseComponents/AkPortalManager.cs.
+ done. [Time: 22.372856 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkChannelConfigType.cs - GUID: a066000085700104b960fb3a11019040...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkChannelConfigType.cs.
+ done. [Time: 21.748821 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents/AkEnvironmentInspector.cs - GUID: a1bdcaea3b0e39d4fbd7374b1dc10692...
+----- Compute hash for Assets/Wwise/Editor/WwiseComponents/AkEnvironmentInspector.cs.
+ done. [Time: 22.505875 ms] 
+Updating Assets/Wwise/Deployment/Components/AkTriggerMouseEnter.cs - GUID: a7eb1ef2d1dccc04cb066c3e2aea89f7...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkTriggerMouseEnter.cs.
+ done. [Time: 21.572287 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkAuxSendValueProxy.cs - GUID: a8be0d2bf0cde53419f26eeee2d9b949...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkAuxSendValueProxy.cs.
+ done. [Time: 23.738342 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkRamp.cs - GUID: ac4b565f27b56a748adf116b32ee8b0e...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkRamp.cs.
+ done. [Time: 23.910772 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkObjectInfo.cs - GUID: ad703ab42022a1349a1b54b314bfc187...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkObjectInfo.cs.
+ done. [Time: 24.382904 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkChannelConfig.cs - GUID: afb91008c027a7c43a7a8c7657ddd28b...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkChannelConfig.cs.
+ done. [Time: 24.437508 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkCallbackType.cs - GUID: b3d1b6085e6620f4eaa4d74372ef670d...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkCallbackType.cs.
+ done. [Time: 23.542511 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents/AkEnvironmentPortalInspector.cs - GUID: b595ebf57576043489c369c78279d44d...
+----- Compute hash for Assets/Wwise/Editor/WwiseComponents/AkEnvironmentPortalInspector.cs.
+ done. [Time: 23.838104 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkGroupType.cs - GUID: b9ad34faad90c9f4b998ab8c33052737...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkGroupType.cs.
+ done. [Time: 20.793066 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkTransform.cs - GUID: bc8a125030c887a41b2da6043d419cc3...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkTransform.cs.
+ done. [Time: 24.947409 ms] 
+Updating Assets/Wwise/Deployment/Components/AkTriggerMouseUp.cs - GUID: bde13c2dbad080641a7430b6adbef177...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkTriggerMouseUp.cs.
+ done. [Time: 24.710112 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/PreparationType.cs - GUID: c2af85c155a4cd3459520dd03b254edf...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/PreparationType.cs.
+ done. [Time: 20.913357 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkVector.cs - GUID: c75a57bdd6c45e944b3f7e0a7e700cc1...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkVector.cs.
+ done. [Time: 23.772829 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Windows/AkSoundEnginePINVOKE_Windows.cs - GUID: c778f56d3b79307408062bfef4fe5cbe...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Windows/AkSoundEnginePINVOKE_Windows.cs.
+ done. [Time: 57.473549 ms] 
+Updating Assets/Wwise/Deployment/Components/AkInitializer.cs - GUID: c7af02cf5f4933c448e622bf2df9e6ae...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkInitializer.cs.
+ done. [Time: 25.773022 ms] 
+Updating Assets/Wwise/Deployment/Components/AkTriggerCollisionEnter.cs - GUID: c827acdd9e24ed94f853340671daa32b...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkTriggerCollisionEnter.cs.
+ done. [Time: 21.032415 ms] 
+Updating Assets/Wwise/Deployment/Components/AkEventCallbackData.cs - GUID: c9271b36337a443459aea3f2e5deeaaa...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkEventCallbackData.cs.
+ done. [Time: 23.214481 ms] 
+Updating Assets/Wwise/Editor/WwiseSetupWizard/AkWwiseSetupWizard.cs - GUID: c9cf6a401a308094aab21aa90afba9a6...
+----- Compute hash for Assets/Wwise/Editor/WwiseSetupWizard/AkWwiseSetupWizard.cs.
+ done. [Time: 30.034929 ms] 
+Updating Assets/Wwise/Deployment/Components/AkEnvironment.cs - GUID: cac5edbc2b3b5bc49a23cca19b2598ba...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkEnvironment.cs.
+ done. [Time: 22.844168 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Windows/AkSoundEngine_Windows.cs - GUID: cc554e6f559c11c4faed556a54ad4f48...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Windows/AkSoundEngine_Windows.cs.
+ done. [Time: 65.869270 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents/AkAmbientInspector.cs - GUID: cd1582a707e4bcb4dab8c9265774620c...
+----- Compute hash for Assets/Wwise/Editor/WwiseComponents/AkAmbientInspector.cs.
+ done. [Time: 24.467888 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Windows/AkPlatformInitSettings_Windows.cs - GUID: cff2adef7671def43a9f1d5066629221...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Windows/AkPlatformInitSettings_Windows.cs.
+ done. [Time: 25.014328 ms] 
+Updating Assets/Wwise/Deployment/Components/AkTriggerBase.cs - GUID: d09caeb9a2625fc47a758c64e161163f...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkTriggerBase.cs.
+ done. [Time: 26.506262 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents/AkInitializerInspector.cs - GUID: d0dff8690d8228c4180d9cd8b405db8e...
+----- Compute hash for Assets/Wwise/Editor/WwiseComponents/AkInitializerInspector.cs.
+ done. [Time: 22.189341 ms] 
+Updating Assets/Wwise/Deployment/Components/AkSwitch.cs - GUID: d0e83ab6c6788db49a94edcf1d128974...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkSwitch.cs.
+ done. [Time: 23.009207 ms] 
+Updating Assets/Wwise/Editor/WwiseComponents/AkUnityEventHandlerInspector.cs - GUID: d28a0db110be2a844b16c0ac962b256d...
+----- Compute hash for Assets/Wwise/Editor/WwiseComponents/AkUnityEventHandlerInspector.cs.
+ done. [Time: 23.779808 ms] 
+Updating Assets/Wwise/Deployment/Components/AkGameObj.cs - GUID: d2a18d442acdb7a48adb1ec56e1dc884...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkGameObj.cs.
+ done. [Time: 23.023575 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkMemSettings.cs - GUID: d319002269f7aa24aad7624481f90219...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkMemSettings.cs.
+ done. [Time: 23.988365 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkBankContent.cs - GUID: d3ada3f4e0264b24080ed4cb09308e9e...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkBankContent.cs.
+ done. [Time: 21.419563 ms] 
+Updating Assets/Wwise/Deployment/Components/AkEnvironmentPortal.cs - GUID: d3b5da30e48b0044c9a123a0b59176f0...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkEnvironmentPortal.cs.
+ done. [Time: 23.793356 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkInitSettings.cs - GUID: d47a24a195c896448b45fa64849c4203...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkInitSettings.cs.
+ done. [Time: 29.071781 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/ErrorLevel.cs - GUID: de3b76cb5d4dc894698da567968ed0e3...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/ErrorLevel.cs.
+ done. [Time: 23.394712 ms] 
+Updating Assets/Wwise/Deployment/Components/AkGameObjEnvironmentData.cs - GUID: df82758ec1766334fabe3122909abcc1...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkGameObjEnvironmentData.cs.
+ done. [Time: 33.494625 ms] 
+Updating Assets/Wwise/Deployment/Components/AkUnityEventHandler.cs - GUID: e0663b2650a4f734ca9e01ca3f63e1df...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkUnityEventHandler.cs.
+ done. [Time: 25.858416 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/_ArrayPoolDefault.cs - GUID: e79ae9ce1505b8645bcaaf8302b58240...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/_ArrayPoolDefault.cs.
+ done. [Time: 23.913237 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/AkWwiseComponentPicker.cs - GUID: ed5d6c8486c95164da18abe12e61bce5...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/AkWwiseComponentPicker.cs.
+ done. [Time: 120.090454 ms] 
+Updating Assets/Wwise/Deployment/API/Handwritten/AkChannelEmitterArray.cs - GUID: edfe351c91f832441a40cc3c2d10cbe9...
+----- Compute hash for Assets/Wwise/Deployment/API/Handwritten/AkChannelEmitterArray.cs.
+ done. [Time: 25.929852 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/PlaylistItem.cs - GUID: ee0f72c0e296aea4e928a6d9b8581bd1...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/PlaylistItem.cs.
+ done. [Time: 25.781643 ms] 
+Updating Assets/Wwise/Deployment/Components/AkTriggerCollisionExit.cs - GUID: f03b3745f16520947adfb5b40265b97e...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkTriggerCollisionExit.cs.
+ done. [Time: 23.621336 ms] 
+Updating Assets/Wwise/Deployment/API/Generated/Common/AkChannelOrdering.cs - GUID: f1bde0a155b335548a3417bfabd293d0...
+----- Compute hash for Assets/Wwise/Deployment/API/Generated/Common/AkChannelOrdering.cs.
+ done. [Time: 29.318521 ms] 
+Updating Assets/Wwise/Deployment/Components/AkEvent.cs - GUID: f34e204510f18c74e85ae9e96ec27ca4...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkEvent.cs.
+ done. [Time: 42.152279 ms] 
+Updating Assets/Wwise/Deployment/Components/AkTriggerExit.cs - GUID: f6bad7e811743f649af0e4172a1843ef...
+----- Compute hash for Assets/Wwise/Deployment/Components/AkTriggerExit.cs.
+ done. [Time: 21.321852 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/AkWwiseWWUBuilder.cs - GUID: f8acb02ea9b9db5479093acd95907292...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/AkWwiseWWUBuilder.cs.
+ done. [Time: 23.837284 ms] 
+- starting compile Library/ScriptAssemblies/Assembly-CSharp.dll, for buildtarget 5
+
+-----Compiler Commandline Arguments:
+Filename: "C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe"
+Arguments: "C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5\mcs.exe"  @Temp/UnityTempFile-a7720ba3631e2444a9f7494e6ba0f30d
+index: 77
+Responsefile: Temp/UnityTempFile-a7720ba3631e2444a9f7494e6ba0f30d Contents: 
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp/Assembly-CSharp.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll"
+-r:Assets/KinectScripts/LZ4Sharp/LZ4Sharp.dll
+-r:Assets/KinectScripts/SharpZipLib/ICSharpCode.SharpZipLib.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:"C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll"
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_5_0
+-define:UNITY_5_5
+-define:UNITY_5
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_GENERICS
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_SCRIPTING_NEW_CSHARP_COMPILER
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_VIDEO
+-define:ENABLE_VR
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_VSTU
+-define:CROSS_PLATFORM_INPUT
+Assets/KinectDemos/AvatarsDemo/Scripts/CameraPitchCorrector.cs
+Assets/KinectDemos/AvatarsDemo/Scripts/OffsetNodeMover.cs
+Assets/KinectDemos/BackgroundRemovalDemo/Scripts/ForegroundBlender.cs
+Assets/KinectDemos/BackgroundRemovalDemo/Scripts/ForegroundToImage.cs
+Assets/KinectDemos/BackgroundRemovalDemo/Scripts/WebcamSource.cs
+Assets/KinectDemos/ColliderDemo/Scripts/DepthImageViewer.cs
+Assets/KinectDemos/ColliderDemo/Scripts/EggMover.cs
+Assets/KinectDemos/ColliderDemo/Scripts/EggSpawner.cs
+Assets/KinectDemos/ColliderDemo/Scripts/HandColorOverlayer.cs
+Assets/KinectDemos/ColliderDemo/Scripts/JumpTrigger.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/ModelFaceController.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/ModelHatController.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/SetBackgroundImage.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/SetBackgroundRemovalImage.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/SetFaceTexture.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/AvatarScaler.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CategorySelector.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/CloudFaceDetector.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/CloudFaceManager.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/CloudWebTools.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/ClientError.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/Face.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FaceAttributes.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FaceLandmarks.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FaceRectangle.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FacialHair.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FeatureCoordinate.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/HeadPose.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/ModelSelector.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/OverlayController.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/UserBodyBlender.cs
+Assets/KinectDemos/GesturesDemo/Scripts/CubeGestureListener.cs
+Assets/KinectDemos/GesturesDemo/Scripts/CubePresentationScript.cs
+Assets/KinectDemos/GesturesDemo/Scripts/ModelGestureListener.cs
+Assets/KinectDemos/GesturesDemo/Scripts/ModelPresentationScript.cs
+Assets/KinectDemos/InteractionDemo/Scripts/GrabDropScript.cs
+Assets/KinectDemos/InteractionDemo/Scripts/GrabRotateScript.cs
+Assets/KinectDemos/InteractionDemo/Scripts/GuiWindowScript.cs
+Assets/KinectDemos/OverlayDemo/Scripts/HandOverlayer.cs
+Assets/KinectDemos/OverlayDemo/Scripts/JointOverlayer.cs
+Assets/KinectDemos/OverlayDemo/Scripts/LinePainter.cs
+Assets/KinectDemos/OverlayDemo/Scripts/PhotoBoothController.cs
+Assets/KinectDemos/OverlayDemo/Scripts/SkeletonOverlayer.cs
+Assets/KinectDemos/PhysicsDemo/Scripts/BallController.cs
+Assets/KinectDemos/PhysicsDemo/Scripts/BarrelTrigger.cs
+Assets/KinectDemos/RecorderDemo/Scripts/KinectPlayerController.cs
+Assets/KinectDemos/SpeechRecognitionDemo/Scripts/BotControlScript.cs
+Assets/KinectDemos/SpeechRecognitionDemo/Scripts/GameControlScript.cs
+Assets/KinectDemos/SpeechRecognitionDemo/Scripts/ThirdPersonCamera.cs
+Assets/KinectDemos/VariousDemos/Scripts/BallMover.cs
+Assets/KinectDemos/VariousDemos/Scripts/BallSpawner.cs
+Assets/KinectDemos/VariousDemos/Scripts/HeightEstimator.cs
+Assets/KinectDemos/VariousDemos/Scripts/PoseDetectorScript.cs
+Assets/KinectDemos/VariousDemos/Scripts/PoseModelHelper.cs
+Assets/KinectDemos/VariousDemos/Scripts/SceneMeshVisualizer.cs
+Assets/KinectDemos/VariousDemos/Scripts/SimpleHolographicCamera.cs
+Assets/KinectDemos/VariousDemos/Scripts/UserHeadCamera.cs
+Assets/KinectDemos/VariousDemos/Scripts/UserMeshVisualizer.cs
+Assets/KinectScripts/AvatarController.cs
+Assets/KinectScripts/AvatarControllerClassic.cs
+Assets/KinectScripts/BackgroundRemovalManager.cs
+Assets/KinectScripts/BodySlicer.cs
+Assets/KinectScripts/Cubeman/CubemanController.cs
+Assets/KinectScripts/Cubeman/PointmanController.cs
+Assets/KinectScripts/FacetrackingManager.cs
+Assets/KinectScripts/Filters/BoneOrientationsConstraint.cs
+Assets/KinectScripts/Filters/JointPositionsFilter.cs
+Assets/KinectScripts/InteractionInputModule.cs
+Assets/KinectScripts/InteractionManager.cs
+Assets/KinectScripts/Interfaces/DepthSensorInterface.cs
+Assets/KinectScripts/Interfaces/DummyK2Interface.cs
+Assets/KinectScripts/Interfaces/Kinect1Interface.cs
+Assets/KinectScripts/Interfaces/Kinect2Interface.cs
+Assets/KinectScripts/Interfaces/OpenNI2Interface.cs
+Assets/KinectScripts/KinectDataServer.cs
+Assets/KinectScripts/KinectGestures.cs
+Assets/KinectScripts/KinectInterop.cs
+Assets/KinectScripts/KinectManager.cs
+Assets/KinectScripts/KinectRecorderPlayer.cs
+Assets/KinectScripts/MultiScene/LoadFirstLevel.cs
+Assets/KinectScripts/MultiScene/LoadLevelWhenNoUser.cs
+Assets/KinectScripts/MultiScene/LoadLevelWhenUserDetected.cs
+Assets/KinectScripts/MultiScene/LoadLevelWithDelay.cs
+Assets/KinectScripts/MultiScene/LocateAvatarsAndGestureListeners.cs
+Assets/KinectScripts/PortraitBackground.cs
+Assets/KinectScripts/Samples/FollowUserRotation.cs
+Assets/KinectScripts/Samples/GetFacePointsDemo.cs
+Assets/KinectScripts/Samples/GetFaceSmileStatus.cs
+Assets/KinectScripts/Samples/GetJointPositionDemo.cs
+Assets/KinectScripts/Samples/JointOrientationView.cs
+Assets/KinectScripts/Samples/JointPositionView.cs
+Assets/KinectScripts/Samples/K2SensorChecker.cs
+Assets/KinectScripts/Samples/MouseControl.cs
+Assets/KinectScripts/Samples/PointCloudView.cs
+Assets/KinectScripts/Samples/RaiseHandListener.cs
+Assets/KinectScripts/Samples/SimpleBackgroundRemoval.cs
+Assets/KinectScripts/Samples/SimpleGestureListener.cs
+Assets/KinectScripts/Samples/SimpleInteractionListener.cs
+Assets/KinectScripts/Samples/SimpleUserMovie.cs
+Assets/KinectScripts/Samples/SimpleVisualGestureListener.cs
+Assets/KinectScripts/SpeechErrorHandler.cs
+Assets/KinectScripts/SpeechManager.cs
+Assets/KinectScripts/VisualGestureManager.cs
+Assets/Scripts/Ball.cs
+Assets/Scripts/BallEmitter.cs
+Assets/Scripts/GameManager.cs
+Assets/Scripts/WindInTheLeaves.cs
+Assets/SmartTimersManager/ScriptExamples/BlueLightFlicker.cs
+Assets/SmartTimersManager/ScriptExamples/RedLightFlicker.cs
+Assets/SmartTimersManager/TimerManager/GUI_TimersList.cs
+Assets/SmartTimersManager/TimerManager/Timer.cs
+Assets/SmartTimersManager/TimerManager/TimersManager.cs
+Assets/Wwise/Deployment/API/Generated/Common/AKRESULT.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkActionOnEventType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkAudioFormat.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkAudioSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkAuxSendValue.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkAuxSendValueProxy.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkBankContent.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkBusType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkCallbackSerializer.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkCallbackType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkChannelConfig.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkChannelConfigType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkChannelEmitter.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkChannelOrdering.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkConnectionType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkCurveInterpolation.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkDeviceSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkExternalSourceInfo.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkGlobalCallbackLocation.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkGroupType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkInitSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkMIDIPost.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkMemSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkMeteringFlags.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkMusicSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkNodeType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkObjectInfo.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkOutputSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkPannerType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkPanningRule.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkPlaylistArray.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkPositionSourceType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkPositioningInfo.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkRamp.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkSegmentInfo.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkSourceSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkStreamMgrSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkTransform.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkVector.cs
+Assets/Wwise/Deployment/API/Generated/Common/DynamicSequenceType.cs
+Assets/Wwise/Deployment/API/Generated/Common/EnvelopePoint.cs
+Assets/Wwise/Deployment/API/Generated/Common/ErrorCode.cs
+Assets/Wwise/Deployment/API/Generated/Common/ErrorLevel.cs
+Assets/Wwise/Deployment/API/Generated/Common/Iterator.cs
+Assets/Wwise/Deployment/API/Generated/Common/MultiPositionType.cs
+Assets/Wwise/Deployment/API/Generated/Common/Playlist.cs
+Assets/Wwise/Deployment/API/Generated/Common/PlaylistItem.cs
+Assets/Wwise/Deployment/API/Generated/Common/PreparationType.cs
+Assets/Wwise/Deployment/API/Generated/Common/RTPCValue_type.cs
+Assets/Wwise/Deployment/API/Generated/Common/WwiseObjectID.cs
+Assets/Wwise/Deployment/API/Generated/Common/WwiseObjectIDext.cs
+Assets/Wwise/Deployment/API/Generated/Common/_ArrayPoolDefault.cs
+Assets/Wwise/Deployment/API/Generated/Common/_ArrayPoolLEngineDefault.cs
+Assets/Wwise/Deployment/API/Generated/Mac/AkAudioOutputType_Mac.cs
+Assets/Wwise/Deployment/API/Generated/Mac/AkMemPoolAttributes_Mac.cs
+Assets/Wwise/Deployment/API/Generated/Mac/AkPlatformInitSettings_Mac.cs
+Assets/Wwise/Deployment/API/Generated/Mac/AkSoundEnginePINVOKE_Mac.cs
+Assets/Wwise/Deployment/API/Generated/Mac/AkSoundEngine_Mac.cs
+Assets/Wwise/Deployment/API/Generated/Mac/AkThreadProperties_Mac.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkAudioAPI_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkAudioOutputType_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkMemPoolAttributes_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkPlatformInitSettings_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkSoundEnginePINVOKE_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkSoundEngine_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkSoundQuality_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkThreadProperties_Windows.cs
+Assets/Wwise/Deployment/API/Handwritten/AkAutoObject.cs
+Assets/Wwise/Deployment/API/Handwritten/AkAuxSendArray.cs
+Assets/Wwise/Deployment/API/Handwritten/AkCallbackManager.cs
+Assets/Wwise/Deployment/API/Handwritten/AkChannelEmitterArray.cs
+Assets/Wwise/Deployment/API/Handwritten/AkPositionArray.cs
+Assets/Wwise/Deployment/Components/AkAmbient.cs
+Assets/Wwise/Deployment/Components/AkAudioListener.cs
+Assets/Wwise/Deployment/Components/AkBank.cs
+Assets/Wwise/Deployment/Components/AkBankManager.cs
+Assets/Wwise/Deployment/Components/AkBasePathGetter.cs
+Assets/Wwise/Deployment/Components/AkDragDropHelper.cs
+Assets/Wwise/Deployment/Components/AkEnvironment.cs
+Assets/Wwise/Deployment/Components/AkEnvironmentPortal.cs
+Assets/Wwise/Deployment/Components/AkEvent.cs
+Assets/Wwise/Deployment/Components/AkEventCallbackData.cs
+Assets/Wwise/Deployment/Components/AkGameObj.cs
+Assets/Wwise/Deployment/Components/AkGameObjEnvironmentData.cs
+Assets/Wwise/Deployment/Components/AkGameObjPosOffsetData.cs
+Assets/Wwise/Deployment/Components/AkGameObjPositionData.cs
+Assets/Wwise/Deployment/Components/AkGameObjPositionOffsetData.cs
+Assets/Wwise/Deployment/Components/AkInitializer.cs
+Assets/Wwise/Deployment/Components/AkMemBankLoader.cs
+Assets/Wwise/Deployment/Components/AkState.cs
+Assets/Wwise/Deployment/Components/AkSwitch.cs
+Assets/Wwise/Deployment/Components/AkTerminator.cs
+Assets/Wwise/Deployment/Components/AkTriggerBase.cs
+Assets/Wwise/Deployment/Components/AkTriggerCollisionEnter.cs
+Assets/Wwise/Deployment/Components/AkTriggerCollisionExit.cs
+Assets/Wwise/Deployment/Components/AkTriggerDisable.cs
+Assets/Wwise/Deployment/Components/AkTriggerEnable.cs
+Assets/Wwise/Deployment/Components/AkTriggerEnter.cs
+Assets/Wwise/Deployment/Components/AkTriggerExit.cs
+Assets/Wwise/Deployment/Components/AkTriggerMouseDown.cs
+Assets/Wwise/Deployment/Components/AkTriggerMouseEnter.cs
+Assets/Wwise/Deployment/Components/AkTriggerMouseExit.cs
+Assets/Wwise/Deployment/Components/AkTriggerMouseUp.cs
+Assets/Wwise/Deployment/Components/AkUnityEventHandler.cs
+Assets/Wwise/Deployment/Components/AkUtilities.cs
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Xml.Linq.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.Lang.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\Boo.Lang.dll"
+-sdk:unity
+
+-----CompilerOutput:-stdout--exitcode: 0--compilationhadfailure: False--outfile: Temp/Assembly-CSharp.dll
+Compilation succeeded - 2 warning(s)
+-----CompilerOutput:-stderr----------
+Assets/KinectDemos/OverlayDemo/Scripts/LinePainter.cs(94,17): warning CS0618: `UnityEngine.LineRenderer.SetVertexCount(int)' is obsolete: `SetVertexCount has been deprecated. Please use the numPositions property instead.'
+Assets/Scripts/Ball.cs(13,15): warning CS0219: The variable `size' is assigned but its value is never used
+-----EndCompilerOutput---------------
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+WeaveUnetFromEditor Temp/Assembly-CSharp.dll
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.UNetWeaver.dll (this message is harmless)
+WeaveAssemblies unityPath= C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll
+WeaveAssemblies unetPath= C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.Pdb.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.Mdb.dll (this message is harmless)
+Symbols will be read from Temp/Assembly-CSharp.dll.mdb
+Script Module: Assembly-CSharp.dll
+Pass: 0 took 12 milliseconds
+Pass: 1 took 15 milliseconds
+Assets/KinectDemos/OverlayDemo/Scripts/LinePainter.cs(94,17): warning CS0618: `UnityEngine.LineRenderer.SetVertexCount(int)' is obsolete: `SetVertexCount has been deprecated. Please use the numPositions property instead.'
+ 
+(Filename: Assets/KinectDemos/OverlayDemo/Scripts/LinePainter.cs Line: 94)
+
+Assets/Scripts/Ball.cs(13,15): warning CS0219: The variable `size' is assigned but its value is never used
+ 
+(Filename: Assets/Scripts/Ball.cs Line: 13)
+
+- starting compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll, for buildtarget 5
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+WeaveUnetFromEditor Temp/Assembly-CSharp-Editor.dll
+WeaveAssemblies unityPath= C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll
+WeaveAssemblies unetPath= C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+Reloading assemblies after script compilation.
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.Locator.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.West.dll (this message is harmless)
+Registering custom dll's ...
+Register platform support module: C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport/UnityEditor.WSA.Extensions.dll
+Register platform support module: C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Core.dll (this message is harmless)
+Registered in 0.072447 seconds.
+Non platform assembly: D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\5.5.0\Unity.PackageManager.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\5.5.0\Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\UnityEngine.Advertisements.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\UnityEngine.Advertisements.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\Editor\UnityEditor.Advertisements.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\Editor\UnityEditor.Advertisements.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\nunit.framework.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\nunit.framework.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\UnityEditor.EditorTestsRunner.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\UnityEditor.EditorTestsRunner.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\Editor\UnityEditor.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\Editor\UnityEditor.PlaymodeTestsRunner.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\UnityEngine.Analytics.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\Editor\UnityEditor.Analytics.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\Editor\UnityEditor.Analytics.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityPurchasing\UnityEngine.Purchasing.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityPurchasing\UnityEngine.Purchasing.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\RuntimeEditor\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\RuntimeEditor\UnityEngine.VR.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Assets\KinectScripts\LZ4Sharp\LZ4Sharp.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Assets\KinectScripts\LZ4Sharp\LZ4Sharp.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Assets\KinectScripts\SharpZipLib\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Assets\KinectScripts\SharpZipLib\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.WSA.Extensions.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.WSA.Extensions.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll (this message is harmless)
+Loading C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\nunit.core.interfaces.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 1.91 ms, found 5 plugins.
+Preloading 2 native plugins for Editor in 0.15 ms.
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.DataContract.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\ICSharpCode.NRefactory.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.IvyParser.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\nunit.core.dll (this message is harmless)
+Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll (this message is harmless)
+Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.Mono.Cecil.dll (this message is harmless)
+Mono: successfully reloaded assembly
+- Completed reload, in  0.907 seconds
+Initializing Unity.PackageManager (PackageManager) v5.5.0 for Unity v5.5.0f3
+Setting WebGL v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport
+Setting StandaloneWindows v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport
+Setting WSAPlayer v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport
+Setting Advertisements v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements
+  UnityEngine.Advertisements.dll (Extension) GUID: 739bbd9f364b4268874f9fd86ab3beef
+  Editor/UnityEditor.Advertisements.dll (Extension) GUID: 97decbdab0634cdd991f8d23ddf0dead
+Setting EditorTestsRunner v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner
+  Editor/nunit.framework.dll (Extension) GUID: 7cbab2be89b54486bbd23a6fe637d30e
+  Editor/UnityEditor.EditorTestsRunner.dll (Extension) GUID: 3c0ad459c1534645b5d603b7cc258f97
+Setting GUISystem v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem
+  UnityEngine.UI.dll (Extension) GUID: f5f67c52d1564df4a8936ccd202a3bd8
+  Standalone/UnityEngine.UI.dll (Extension) GUID: f70555f144d8491a825f0804e09c671c
+  Editor/UnityEditor.UI.dll (Extension) GUID: 80a3616ca19596e4da0f10f14d241e9f
+Setting UNetHLAPI v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking
+  UnityEngine.Networking.dll (Extension) GUID: 870353891bb340e2b2a9c8707e7419ba
+  Standalone/UnityEngine.Networking.dll (Extension) GUID: dc443db3e92b4983b9738c1131f555cb
+  Editor/UnityEditor.Networking.dll (Extension) GUID: 5f32cd94baa94578a686d4b9d6b660f7
+Setting PlaymodeTestsRunner v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner
+  Editor/UnityEditor.PlaymodeTestsRunner.dll (Extension) GUID: 4113173d5e95493ab8765d7b08371de4
+  UnityEngine.PlaymodeTestsRunner.dll (Extension) GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+Setting TreeEditor v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor
+  Editor/UnityEditor.TreeEditor.dll (Extension) GUID: adebbd281f1a4ef3a30be7f21937e02f
+Setting UnityAnalytics v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics
+  UnityEngine.Analytics.dll (Extension) GUID: 852E56802EB941638ACBB491814497B0
+  Editor/UnityEditor.Analytics.dll (Extension) GUID: 86f4de9468454445ac2f39e207fafa3a
+Setting UnityHoloLens v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens
+  Editor/UnityEditor.HoloLens.dll (Extension) GUID: 12fd8a0055b84bb59e84c9835a37e333
+  Runtime/UnityEngine.HoloLens.dll (Extension) GUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+  RuntimeEditor/UnityEngine.HoloLens.dll (Extension) GUID: 1c6d1fbb51834b64847b1b73a75bfc77
+Setting UnityPurchasing v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityPurchasing
+  UnityEngine.Purchasing.dll (Extension) GUID: 8E0CD8ED44D4412CBE0642067ABC9E44
+Setting UnityVR v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR
+  Editor/UnityEditor.VR.dll (Extension) GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+  Runtime/UnityEngine.VR.dll (Extension) GUID: 6cdf1e5c78d14720aaadccd4C792df96
+  RuntimeEditor/UnityEngine.VR.dll (Extension) GUID: 307433eba81a469ab1e2084d52d1a5a2
+Registering platform support modules:
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.Lang.dll (this message is harmless)
+Registered platform support modules in: 0.0470785s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Native extension for Metro target not found
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/blank.png - GUID: 2c7522060a8f5254383655dc6b3b12bb...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/blank.png.
+ done. [Time: 65.750618 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/selected_background_color.png - GUID: 3561f549fa60a254db9979cd54a0e44a...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/selected_background_color.png.
+ done. [Time: 21.564486 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/soundbank_nor.png - GUID: 436fcd0fc30b84a4889d657ae1e17a9b...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/soundbank_nor.png.
+ done. [Time: 23.172194 ms] 
+Updating Assets/Wwise/Gizmos/WwiseAudioSpeaker.png - GUID: 452f655ad21a80f4a94a2568414c598a...
+----- Compute hash for Assets/Wwise/Gizmos/WwiseAudioSpeaker.png.
+ done. [Time: 22.763290 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/middle_sibling_nochild.png - GUID: 4b4b7a7fbbb6e56419de84cf74648b66...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/middle_sibling_nochild.png.
+ done. [Time: 22.449629 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/state_nor.png - GUID: 630b6696021a32c4a8f28ccff95f065d...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/state_nor.png.
+ done. [Time: 21.979961 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/middle_sibling_collapsed.png - GUID: 65c9202d9288d6f4e89f37629d7234fe...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/middle_sibling_collapsed.png.
+ done. [Time: 23.854528 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/bus_nor.png - GUID: 7307d3898ee73c746a6621c252b77bb3...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/bus_nor.png.
+ done. [Time: 24.221146 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/wproj.png - GUID: 7f2bb20ebcd3b514e86b8bbb7c1f1a79...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/wproj.png.
+ done. [Time: 50.010181 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/middle_sibling_expanded.png - GUID: 8120d58f798755b469d8380ed83844af...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/middle_sibling_expanded.png.
+ done. [Time: 52.514118 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/last_sibling_collapsed.png - GUID: 8f56c93e0aeca4541997aa6a8e771d41...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/last_sibling_collapsed.png.
+ done. [Time: 49.106155 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/workunit_nor.png - GUID: 9395ed2bda4138c4680cf0f1ae04e9c1...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/workunit_nor.png.
+ done. [Time: 33.607113 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/normal_checked.png - GUID: 94b357bc3e40c8b469011b78dd818ded...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/normal_checked.png.
+ done. [Time: 23.151669 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/switchgroup_nor.png - GUID: a3cd5e6e3e440404a9c959ed5c0303dd...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/switchgroup_nor.png.
+ done. [Time: 94.466454 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/auxbus_nor.png - GUID: a69f2727d5177f14ca388d3a09ce9b91...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/auxbus_nor.png.
+ done. [Time: 52.946835 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/stategroup_nor.png - GUID: ad65e8758107c96498ccbf02b911498e...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/stategroup_nor.png.
+ done. [Time: 53.348766 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/normal_unchecked.png - GUID: aec4ba36604def04db755a4d4cf60bfa...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/normal_unchecked.png.
+ done. [Time: 69.284218 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/switch_nor.png - GUID: bf993846d141a3843ab297e59c76b710...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/switch_nor.png.
+ done. [Time: 36.274036 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/guide.png - GUID: d4d0720d10a4b804390366a145d23039...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/guide.png.
+ done. [Time: 73.451286 ms] 
+Updating Assets/Wwise/Gizmos/wwise_white_on_gray.png - GUID: d94a86bf2f0f9d04bb8a66baba7d0951...
+----- Compute hash for Assets/Wwise/Gizmos/wwise_white_on_gray.png.
+ done. [Time: 29.954052 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/physical_folder_nor.png - GUID: df41958a7dcf3274babd15c509be777c...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/physical_folder_nor.png.
+ done. [Time: 64.273056 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/event_nor.png - GUID: ee1723b377c67ae44a2df82f5ff58870...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/event_nor.png.
+ done. [Time: 99.515388 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/last_sibling_expanded.png - GUID: f9172fa2b9714c94c970661faaa86156...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/last_sibling_expanded.png.
+ done. [Time: 23.629957 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/folder_nor.png - GUID: fd6bbd83ff6b42e45a9f2fc823d9f00c...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/folder_nor.png.
+ done. [Time: 62.831207 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/last_sibling_nochild.png - GUID: fe869a28be0ce9046b055f19ba8b2534...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/last_sibling_nochild.png.
+ done. [Time: 40.757233 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/TreeViewSelectedSkin.guiskin - GUID: 822d48c495578a840bd4694c84f7e127...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/TreeViewSelectedSkin.guiskin.
+ done. [Time: 59.250404 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/TreeViewUnselectedSkin.guiskin - GUID: a70a4561915fd2c47bd6f9bd0eac834b...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/TreeViewUnselectedSkin.guiskin.
+ done. [Time: 27.030533 ms] 
+Updating Assets/Wwise/Editor/WwiseWindows/TreeViewControl/TreeViewHoverSkin.guiskin - GUID: b7b987c7349004044a06acb027b6a673...
+----- Compute hash for Assets/Wwise/Editor/WwiseWindows/TreeViewControl/TreeViewHoverSkin.guiskin.
+ done. [Time: 25.534082 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/Auro.dll - GUID: 07d53e01b410e7d4d8dfe364e66f084c...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/Auro.dll.
+ done. [Time: 23.824148 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkConvolutionReverb.dll - GUID: 0b35e7635ac5cdb4889f83e74540f48d...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkConvolutionReverb.dll.
+ done. [Time: 16.731916 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkTimeStretch.bundle - GUID: 10e2390da3fd06648a1febadf8016cf5...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkTimeStretch.bundle.
+ done. [Time: 16.130873 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libCrankcaseAudioREVModelPlayer.bundle - GUID: 1eeb82ec86f786a4191bffa6e0526701...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libCrankcaseAudioREVModelPlayer.bundle.
+ done. [Time: 98.312889 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkSoundSeedAir.dll - GUID: 24ab03d514ed45b4b81436eb36940a2d...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkSoundSeedAir.dll.
+ done. [Time: 17.278767 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/SynthOne.dll - GUID: 2ec593e31c5ad6f4f840015c61550c1d...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/SynthOne.dll.
+ done. [Time: 16.413740 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkSoundSeedAir.dll - GUID: 2f071e8651831a14780d230521b401af...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkSoundSeedAir.dll.
+ done. [Time: 16.521305 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkFlanger.dll - GUID: 3092666eb6ae95e4bb464632b62ec196...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkFlanger.dll.
+ done. [Time: 16.692915 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/McDSP.dll - GUID: 353a5ae953cecbb47a5dd34de690e70b...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/McDSP.dll.
+ done. [Time: 16.304945 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkMotion.bundle - GUID: 393589a2a9e1a8f40ad8d4f267f4732b...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkMotion.bundle.
+ done. [Time: 15.178810 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkFlanger.dll - GUID: 39ae06ba3aef6b647874d0a68132b2cf...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkFlanger.dll.
+ done. [Time: 16.607519 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkSoundSeedAir.bundle - GUID: 476996cfe20b3d74591e5d8358bd4fb5...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkSoundSeedAir.bundle.
+ done. [Time: 16.706873 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkGuitarDistortion.bundle - GUID: 4c84c66262bb3e14695904f0c8e321ba...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkGuitarDistortion.bundle.
+ done. [Time: 15.836921 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle/Contents/Resources/readme.txt - GUID: 50dffd4aea123fb4cabc26272c4782bf...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/Release/AkSoundEngine.bundle/Contents/Resources/readme.txt.
+ done. [Time: 14.951776 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libSynthOne.bundle - GUID: 538e5fcaa92bcbb408d92326452310fa...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libSynthOne.bundle.
+ done. [Time: 15.395580 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/Release/AkSoundEngine.dll - GUID: 5c0a96b1e410d2e45bc123575eed4324...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/Release/AkSoundEngine.dll.
+ done. [Time: 18.519445 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/Release/AkSoundEngine.dll - GUID: 600b22534325a124fa01747a44c02c91...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/Release/AkSoundEngine.dll.
+ done. [Time: 17.856819 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkPitchShifter.bundle - GUID: 6228106a73c66854b842389e27c02ce1...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkPitchShifter.bundle.
+ done. [Time: 16.086943 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/CrankcaseAudioREVModelPlayer.dll - GUID: 650fc4c45fbba4a4c9c42dab12d3321f...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/CrankcaseAudioREVModelPlayer.dll.
+ done. [Time: 16.219551 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkTremolo.dll - GUID: 6b6dc17c6919f7e4c809bd9e2b456f8e...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkTremolo.dll.
+ done. [Time: 16.453564 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/IOSONOProximity.dll - GUID: 6c9759a8717f83b4ba2440ba6a95edef...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/IOSONOProximity.dll.
+ done. [Time: 16.518431 ms] 
+Updating Assets/WwiseSettings.xml - GUID: 6d00c165ffc52be46b63ead576c31917...
+----- Compute hash for Assets/WwiseSettings.xml.
+ done. [Time: 14.991600 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkGuitarDistortion.dll - GUID: 6dc317d2e839f3b488601f91530081f7...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkGuitarDistortion.dll.
+ done. [Time: 16.807867 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkHarmonizer.bundle - GUID: 70faebc113b123944aa53c1faa6c913b...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkHarmonizer.bundle.
+ done. [Time: 18.365080 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/SynthOne.dll - GUID: 71abd424eba7e4a40a565e5d890ffa55...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/SynthOne.dll.
+ done. [Time: 17.321054 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/Profile/AkSoundEngine.dll - GUID: 74dc98d8b6e7c824a832fec317543967...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/Profile/AkSoundEngine.dll.
+ done. [Time: 18.634809 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkStereoDelay.dll - GUID: 769ed99a3a8c9d64d9c1cafc298e1798...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkStereoDelay.dll.
+ done. [Time: 16.151812 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkSoundSeedImpact.dll - GUID: 7750e49b996bb43419a1231cdef8da11...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkSoundSeedImpact.dll.
+ done. [Time: 16.418259 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libMcDSP.bundle - GUID: 816b3a8159104eb48a4e423f0c792b29...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libMcDSP.bundle.
+ done. [Time: 16.846458 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkHarmonizer.dll - GUID: 823633003824e0c48a76fc1253172d56...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkHarmonizer.dll.
+ done. [Time: 16.685934 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/IOSONOProximity.dll - GUID: 83339cff002e32f498a71f3bb4ee1100...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/IOSONOProximity.dll.
+ done. [Time: 16.520483 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkStereoDelay.bundle - GUID: 8734449221e1a474da69fb71c86a4d90...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkStereoDelay.bundle.
+ done. [Time: 15.881259 ms] 
+Updating Assets/Wwise/InstallConfig.json - GUID: 87d92c37c28072f4cad2d21b13501f42...
+----- Compute hash for Assets/Wwise/InstallConfig.json.
+ done. [Time: 15.130776 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkTimeStretch.dll - GUID: 8a38acc830d0ac945bf1f79c858b7e1e...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkTimeStretch.dll.
+ done. [Time: 16.418259 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/Auro.dll - GUID: 8ab2874e28b853e45a7047b5a60538d1...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/Auro.dll.
+ done. [Time: 22.073566 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkRecorder.bundle - GUID: 8ac7bbb953bf40b43892542f1ecea8b3...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkRecorder.bundle.
+ done. [Time: 15.461267 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/McDSP.dll - GUID: 8c10d75f55a742c4597b4df12df90a62...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/McDSP.dll.
+ done. [Time: 17.038185 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkPitchShifter.dll - GUID: 8dbe9742fe3f3dc418adc09db38f9fec...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkPitchShifter.dll.
+ done. [Time: 15.881669 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/CrankcaseAudioREVModelPlayer.dll - GUID: 9237663cbdbaed64385cc71859c80c67...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/CrankcaseAudioREVModelPlayer.dll.
+ done. [Time: 16.334505 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkMotion.dll - GUID: 930752348aaedd040ab938dd697abe6d...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkMotion.dll.
+ done. [Time: 16.164127 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/Debug/AkSoundEngine.dll - GUID: 984784e3e70aff346aea6e64cb65607f...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/Debug/AkSoundEngine.dll.
+ done. [Time: 22.803522 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkTimeStretch.dll - GUID: 9ab91115d2be9e1469e9be987f38a34d...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkTimeStretch.dll.
+ done. [Time: 16.390751 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkStereoDelay.dll - GUID: 9ac97798a2c91394b9c69ede85c1164b...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkStereoDelay.dll.
+ done. [Time: 16.672386 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle/Contents/Resources/readme.txt - GUID: 9c9da210b54183749b52a004f245925e...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/Debug/AkSoundEngine.bundle/Contents/Resources/readme.txt.
+ done. [Time: 14.896352 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/Profile/AkSoundEngine.dll - GUID: a193c0dde00aaa74990a07b33ad61ccf...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/Profile/AkSoundEngine.dll.
+ done. [Time: 19.225178 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkTremolo.bundle - GUID: a5bf417f8cd82ea45bbd358092cde912...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkTremolo.bundle.
+ done. [Time: 15.815161 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/iZotope.dll - GUID: b098e832ee4337d48bf7fc85f01b96dd...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/iZotope.dll.
+ done. [Time: 17.223343 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkRecorder.dll - GUID: b2ab5062d24d1424d84354db574c5a72...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkRecorder.dll.
+ done. [Time: 16.058617 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkSoundSeedImpact.dll - GUID: bd41d19356d719441ba33352caf37757...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkSoundSeedImpact.dll.
+ done. [Time: 16.631330 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkGuitarDistortion.dll - GUID: bd56bd3ef4b75714da8fc46619d5c3db...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkGuitarDistortion.dll.
+ done. [Time: 19.493267 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkMotion.dll - GUID: be5a8e5e5cdaad844b9a68fde739c7b9...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkMotion.dll.
+ done. [Time: 17.954531 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkConvolutionReverb.bundle - GUID: bf7cb93be6807754c8cd478c164fb087...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkConvolutionReverb.bundle.
+ done. [Time: 16.095976 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkConvolutionReverb.dll - GUID: bfc09f4727020984197ab66e3d437eb4...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkConvolutionReverb.dll.
+ done. [Time: 18.955038 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkRecorder.dll - GUID: cd4625de12ab38b478d207341165e5d7...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkRecorder.dll.
+ done. [Time: 16.556612 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkPitchShifter.dll - GUID: cfffeb3fbfb3bfa499f446ea3c8aa2a8...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86_64/DSP/AkPitchShifter.dll.
+ done. [Time: 22.026352 ms] 
+Updating Assets/Wwise/Deployment/AkWwiseSDKVersion.h - GUID: d2d587ede9af2d4489f9a43fe7e73d47...
+----- Compute hash for Assets/Wwise/Deployment/AkWwiseSDKVersion.h.
+ done. [Time: 35.868828 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkRoomVerb.bundle - GUID: d304d0fce53955d448c3f90ee28723c9...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkRoomVerb.bundle.
+ done. [Time: 28.262178 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkTremolo.dll - GUID: d765dfc6671e956419a54bef586517c5...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkTremolo.dll.
+ done. [Time: 17.675358 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/Debug/AkSoundEngine.dll - GUID: e70f7f6c8ad637f40881fd7a28776d73...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/Debug/AkSoundEngine.dll.
+ done. [Time: 21.566128 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkSoundSeedImpact.bundle - GUID: eaa08481f5cb8954095147100762a301...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkSoundSeedImpact.bundle.
+ done. [Time: 16.244596 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/iZotope.dll - GUID: f273fb7f7145ae3428aaea1ee00b2fda...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/iZotope.dll.
+ done. [Time: 17.166277 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkFlanger.bundle - GUID: f27a5a7660a88f846b9a7435ca4fd931...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/DSP/libAkFlanger.bundle.
+ done. [Time: 17.091557 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkHarmonizer.dll - GUID: f849b807e7b3aff4ea10153ea5593a89...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Windows/x86/DSP/AkHarmonizer.dll.
+ done. [Time: 16.704409 ms] 
+Updating Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle/Contents/Resources/readme.txt - GUID: f9d85e76fec2eb4408cdb633956d837a...
+----- Compute hash for Assets/Wwise/Deployment/Plugins/Mac/Profile/AkSoundEngine.bundle/Contents/Resources/readme.txt.
+ done. [Time: 14.982568 ms] 
+Updating Assets/Wwise/Version.txt - GUID: f9e62f317b81a75478cfda7f11f7155b...
+----- Compute hash for Assets/Wwise/Version.txt.
+ done. [Time: 14.275192 ms] 
+Updating Assets/Wwise/Editor/ProjectData - GUID: 8318164eec2053e4eb9e10ce3614feee...
+ done. [Time: 15.143913 ms] 
+Updating Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset - GUID: 61175b2a9ae193e4d8a432b56068d5b9...
+----- Compute hash for Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset.
+ done. [Time: 15.673932 ms] 
+Unloading 48 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 43.1 MB.
+System memory in use after: 43.2 MB.
+
+Unloading 139 unused Assets to reduce memory usage. Loaded Objects now: 2962.
+Total: 4.096455 ms (FindLiveObjects: 0.218001 ms CreateObjectMapping: 0.045570 ms MarkObjects: 3.784438 ms  DeleteObjects: 0.045570 ms)
+
+Refreshing native plugins compatible for Editor in 29.02 ms, found 5 plugins.
+Preloading 2 native plugins for Editor in 0.15 ms.
+
+----- Total AssetImport time: 14.684358s, AssetImport time: 14.551424s, Asset hashing: 0.340686s [158.5 MB, 465.204987 mb/s]
+
+Warming cache for 1462 main assets: 0.005788 seconds elapsed
+Initializing Unity extensions:
+Updating C:/Program Files/Unity/Editor/Data/PlaybackEngines/MetroSupport/Managed/Store81/UnityEngine.Networking.dll - GUID: 67e9dad5654047ebbe623cce9dbf7b38...
+ done. [Time: 11.351674 ms] 
+- starting compile Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll, for buildtarget 5
+Refreshing native plugins compatible for Editor in 1.30 ms, found 5 plugins.
+Preloading 2 native plugins for Editor in 0.13 ms.
+
+----- Total AssetImport time: 0.152164s, AssetImport time: 0.125834s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+Updating C:/Program Files/Unity/Editor/Data/PlaybackEngines/MetroSupport/Managed/Phone/UnityEngine.Networking.dll - GUID: f48df919adea4fa095a7407e773e5aa4...
+ done. [Time: 10.540019 ms] 
+- starting compile Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll, for buildtarget 5
+Refreshing native plugins compatible for Editor in 1.26 ms, found 5 plugins.
+Preloading 2 native plugins for Editor in 0.13 ms.
+
+----- Total AssetImport time: 0.146307s, AssetImport time: 0.115856s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+Updating C:/Program Files/Unity/Editor/Data/PlaybackEngines/MetroSupport/Managed/UAP/UnityEngine.Networking.dll - GUID: 52a206b72a8f4f749c28d8b18b42dd19...
+ done. [Time: 15.695279 ms] 
+- starting compile Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll, for buildtarget 5
+Refreshing native plugins compatible for Editor in 1.26 ms, found 5 plugins.
+Preloading 2 native plugins for Editor in 0.25 ms.
+
+----- Total AssetImport time: 0.156877s, AssetImport time: 0.127975s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll'  GUID: 12fd8a0055b84bb59e84c9835a37e333
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll'  GUID: 852e56802eb941638acbb491814497b0
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll'  GUID: f70555f144d8491a825f0804e09c671c
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'  GUID: f5f67c52d1564df4a8936ccd202a3bd8
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll'  GUID: dc443db3e92b4983b9738c1131f555cb
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll'  GUID: 5f32cd94baa94578a686d4b9d6b660f7
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll'  GUID: 86f4de9468454445ac2f39e207fafa3a
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll'  GUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+ 'C:/Program Files/Unity/Editor/Data/PlaybackEngines/MetroSupport/Managed/Store81/UnityEngine.Networking.dll'  GUID: 67e9dad5654047ebbe623cce9dbf7b38
+ 'C:/Program Files/Unity/Editor/Data/PlaybackEngines/MetroSupport/Managed/UAP/UnityEngine.Networking.dll'  GUID: 52a206b72a8f4f749c28d8b18b42dd19
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll'  GUID: adebbd281f1a4ef3a30be7f21937e02f
+ 'C:/Program Files/Unity/Editor/Data/PlaybackEngines/MetroSupport/Managed/Phone/UnityEngine.Networking.dll'  GUID: f48df919adea4fa095a7407e773e5aa4
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll'  GUID: 3c0ad459c1534645b5d603b7cc258f97
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'  GUID: 870353891bb340e2b2a9c8707e7419ba
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll'  GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll'  GUID: 97decbdab0634cdd991f8d23ddf0dead
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll'  GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll'  GUID: 1c6d1fbb51834b64847b1b73a75bfc77
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll'  GUID: 307433eba81a469ab1e2084d52d1a5a2
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Runtime/UnityEngine.VR.dll'  GUID: 6cdf1e5c78d14720aaadccd4c792df96
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll'  GUID: 80a3616ca19596e4da0f10f14d241e9f
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/Editor/UnityEditor.PlaymodeTestsRunner.dll'  GUID: 4113173d5e95493ab8765d7b08371de4
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll'  GUID: 8e0cd8ed44d4412cbe0642067abc9e44
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll'  GUID: 7cbab2be89b54486bbd23a6fe637d30e
+ 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll'  GUID: 739bbd9f364b4268874f9fd86ab3beef
+Unloading 102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 43.7 MB.
+System memory in use after: 43.8 MB.
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 2995.
+Total: 5.400769 ms (FindLiveObjects: 0.259466 ms CreateObjectMapping: 0.036128 ms MarkObjects: 5.032096 ms  DeleteObjects: 0.070614 ms)
+
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+WeaveUnetFromEditor Temp/Assembly-CSharp-firstpass.dll
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.UNetWeaver.dll (this message is harmless)
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Runtime/UnityEngine.VR.dll' because we're compiling for Editor
+WeaveAssemblies unityPath= C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll
+WeaveAssemblies unetPath= C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.Pdb.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.Mdb.dll (this message is harmless)
+Symbols will be read from Temp/Assembly-CSharp-firstpass.dll.mdb
+Script Module: Assembly-CSharp-firstpass.dll
+Pass: 0 took 34 milliseconds
+Pass: 1 took 12 milliseconds
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Runtime/UnityEngine.VR.dll' because we're compiling for Editor
+- starting compile Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll, for buildtarget 5
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+WeaveUnetFromEditor Temp/Assembly-CSharp-firstpass.dll
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Runtime/UnityEngine.VR.dll' because we're compiling for Editor
+WeaveAssemblies unityPath= C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll
+WeaveAssemblies unetPath= C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+Symbols will be read from Temp/Assembly-CSharp-firstpass.dll.mdb
+Script Module: Assembly-CSharp-firstpass.dll
+Pass: 0 took 31 milliseconds
+Pass: 1 took 5 milliseconds
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Runtime/UnityEngine.VR.dll' because we're compiling for Editor
+- starting compile Library/ScriptAssemblies/Assembly-CSharp.dll, for buildtarget 5
+- starting compile Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll, for buildtarget 5
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+WeaveUnetFromEditor Temp/Assembly-CSharp-Editor-firstpass.dll
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Runtime/UnityEngine.VR.dll' because we're compiling for Editor
+WeaveAssemblies unityPath= C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll
+WeaveAssemblies unetPath= C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+Symbols will be read from Temp/Assembly-CSharp-Editor-firstpass.dll.mdb
+Script Module: Assembly-CSharp-Editor-firstpass.dll
+Pass: 0 took 33 milliseconds
+Pass: 1 took 0 milliseconds
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Runtime/UnityEngine.VR.dll' because we're compiling for Editor
+
+-----Compiler Commandline Arguments:
+Filename: "C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe"
+Arguments: "C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5\mcs.exe"  @Temp/UnityTempFile-7c095d4e68f6f5e4bb68bc8e1b73a4bb
+index: 77
+Responsefile: Temp/UnityTempFile-7c095d4e68f6f5e4bb68bc8e1b73a4bb Contents: 
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp/Assembly-CSharp.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll"
+-r:Assets/KinectScripts/LZ4Sharp/LZ4Sharp.dll
+-r:Assets/KinectScripts/SharpZipLib/ICSharpCode.SharpZipLib.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:"C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll"
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_5_0
+-define:UNITY_5_5
+-define:UNITY_5
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_GENERICS
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_SCRIPTING_NEW_CSHARP_COMPILER
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_VIDEO
+-define:ENABLE_VR
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_VSTU
+-define:CROSS_PLATFORM_INPUT
+Assets/KinectDemos/AvatarsDemo/Scripts/CameraPitchCorrector.cs
+Assets/KinectDemos/AvatarsDemo/Scripts/OffsetNodeMover.cs
+Assets/KinectDemos/BackgroundRemovalDemo/Scripts/ForegroundBlender.cs
+Assets/KinectDemos/BackgroundRemovalDemo/Scripts/ForegroundToImage.cs
+Assets/KinectDemos/BackgroundRemovalDemo/Scripts/WebcamSource.cs
+Assets/KinectDemos/ColliderDemo/Scripts/DepthImageViewer.cs
+Assets/KinectDemos/ColliderDemo/Scripts/EggMover.cs
+Assets/KinectDemos/ColliderDemo/Scripts/EggSpawner.cs
+Assets/KinectDemos/ColliderDemo/Scripts/HandColorOverlayer.cs
+Assets/KinectDemos/ColliderDemo/Scripts/JumpTrigger.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/ModelFaceController.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/ModelHatController.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/SetBackgroundImage.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/SetBackgroundRemovalImage.cs
+Assets/KinectDemos/FaceTrackingDemo/Scripts/SetFaceTexture.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/AvatarScaler.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CategorySelector.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/CloudFaceDetector.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/CloudFaceManager.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/CloudWebTools.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/ClientError.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/Face.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FaceAttributes.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FaceLandmarks.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FaceRectangle.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FacialHair.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/FeatureCoordinate.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/CloudFaceScripts/FaceObjs/HeadPose.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/ModelSelector.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/OverlayController.cs
+Assets/KinectDemos/FittingRoomDemo/Scripts/UserBodyBlender.cs
+Assets/KinectDemos/GesturesDemo/Scripts/CubeGestureListener.cs
+Assets/KinectDemos/GesturesDemo/Scripts/CubePresentationScript.cs
+Assets/KinectDemos/GesturesDemo/Scripts/ModelGestureListener.cs
+Assets/KinectDemos/GesturesDemo/Scripts/ModelPresentationScript.cs
+Assets/KinectDemos/InteractionDemo/Scripts/GrabDropScript.cs
+Assets/KinectDemos/InteractionDemo/Scripts/GrabRotateScript.cs
+Assets/KinectDemos/InteractionDemo/Scripts/GuiWindowScript.cs
+Assets/KinectDemos/OverlayDemo/Scripts/HandOverlayer.cs
+Assets/KinectDemos/OverlayDemo/Scripts/JointOverlayer.cs
+Assets/KinectDemos/OverlayDemo/Scripts/LinePainter.cs
+Assets/KinectDemos/OverlayDemo/Scripts/PhotoBoothController.cs
+Assets/KinectDemos/OverlayDemo/Scripts/SkeletonOverlayer.cs
+Assets/KinectDemos/PhysicsDemo/Scripts/BallController.cs
+Assets/KinectDemos/PhysicsDemo/Scripts/BarrelTrigger.cs
+Assets/KinectDemos/RecorderDemo/Scripts/KinectPlayerController.cs
+Assets/KinectDemos/SpeechRecognitionDemo/Scripts/BotControlScript.cs
+Assets/KinectDemos/SpeechRecognitionDemo/Scripts/GameControlScript.cs
+Assets/KinectDemos/SpeechRecognitionDemo/Scripts/ThirdPersonCamera.cs
+Assets/KinectDemos/VariousDemos/Scripts/BallMover.cs
+Assets/KinectDemos/VariousDemos/Scripts/BallSpawner.cs
+Assets/KinectDemos/VariousDemos/Scripts/HeightEstimator.cs
+Assets/KinectDemos/VariousDemos/Scripts/PoseDetectorScript.cs
+Assets/KinectDemos/VariousDemos/Scripts/PoseModelHelper.cs
+Assets/KinectDemos/VariousDemos/Scripts/SceneMeshVisualizer.cs
+Assets/KinectDemos/VariousDemos/Scripts/SimpleHolographicCamera.cs
+Assets/KinectDemos/VariousDemos/Scripts/UserHeadCamera.cs
+Assets/KinectDemos/VariousDemos/Scripts/UserMeshVisualizer.cs
+Assets/KinectScripts/AvatarController.cs
+Assets/KinectScripts/AvatarControllerClassic.cs
+Assets/KinectScripts/BackgroundRemovalManager.cs
+Assets/KinectScripts/BodySlicer.cs
+Assets/KinectScripts/Cubeman/CubemanController.cs
+Assets/KinectScripts/Cubeman/PointmanController.cs
+Assets/KinectScripts/FacetrackingManager.cs
+Assets/KinectScripts/Filters/BoneOrientationsConstraint.cs
+Assets/KinectScripts/Filters/JointPositionsFilter.cs
+Assets/KinectScripts/InteractionInputModule.cs
+Assets/KinectScripts/InteractionManager.cs
+Assets/KinectScripts/Interfaces/DepthSensorInterface.cs
+Assets/KinectScripts/Interfaces/DummyK2Interface.cs
+Assets/KinectScripts/Interfaces/Kinect1Interface.cs
+Assets/KinectScripts/Interfaces/Kinect2Interface.cs
+Assets/KinectScripts/Interfaces/OpenNI2Interface.cs
+Assets/KinectScripts/KinectDataServer.cs
+Assets/KinectScripts/KinectGestures.cs
+Assets/KinectScripts/KinectInterop.cs
+Assets/KinectScripts/KinectManager.cs
+Assets/KinectScripts/KinectRecorderPlayer.cs
+Assets/KinectScripts/MultiScene/LoadFirstLevel.cs
+Assets/KinectScripts/MultiScene/LoadLevelWhenNoUser.cs
+Assets/KinectScripts/MultiScene/LoadLevelWhenUserDetected.cs
+Assets/KinectScripts/MultiScene/LoadLevelWithDelay.cs
+Assets/KinectScripts/MultiScene/LocateAvatarsAndGestureListeners.cs
+Assets/KinectScripts/PortraitBackground.cs
+Assets/KinectScripts/Samples/FollowUserRotation.cs
+Assets/KinectScripts/Samples/GetFacePointsDemo.cs
+Assets/KinectScripts/Samples/GetFaceSmileStatus.cs
+Assets/KinectScripts/Samples/GetJointPositionDemo.cs
+Assets/KinectScripts/Samples/JointOrientationView.cs
+Assets/KinectScripts/Samples/JointPositionView.cs
+Assets/KinectScripts/Samples/K2SensorChecker.cs
+Assets/KinectScripts/Samples/MouseControl.cs
+Assets/KinectScripts/Samples/PointCloudView.cs
+Assets/KinectScripts/Samples/RaiseHandListener.cs
+Assets/KinectScripts/Samples/SimpleBackgroundRemoval.cs
+Assets/KinectScripts/Samples/SimpleGestureListener.cs
+Assets/KinectScripts/Samples/SimpleInteractionListener.cs
+Assets/KinectScripts/Samples/SimpleUserMovie.cs
+Assets/KinectScripts/Samples/SimpleVisualGestureListener.cs
+Assets/KinectScripts/SpeechErrorHandler.cs
+Assets/KinectScripts/SpeechManager.cs
+Assets/KinectScripts/VisualGestureManager.cs
+Assets/Scripts/Ball.cs
+Assets/Scripts/BallEmitter.cs
+Assets/Scripts/GameManager.cs
+Assets/Scripts/WindInTheLeaves.cs
+Assets/SmartTimersManager/ScriptExamples/BlueLightFlicker.cs
+Assets/SmartTimersManager/ScriptExamples/RedLightFlicker.cs
+Assets/SmartTimersManager/TimerManager/GUI_TimersList.cs
+Assets/SmartTimersManager/TimerManager/Timer.cs
+Assets/SmartTimersManager/TimerManager/TimersManager.cs
+Assets/Wwise/Deployment/API/Generated/Common/AKRESULT.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkActionOnEventType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkAudioFormat.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkAudioSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkAuxSendValue.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkAuxSendValueProxy.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkBankContent.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkBusType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkCallbackSerializer.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkCallbackType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkChannelConfig.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkChannelConfigType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkChannelEmitter.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkChannelOrdering.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkConnectionType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkCurveInterpolation.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkDeviceSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkExternalSourceInfo.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkGlobalCallbackLocation.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkGroupType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkInitSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkMIDIPost.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkMemSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkMeteringFlags.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkMusicSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkNodeType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkObjectInfo.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkOutputSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkPannerType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkPanningRule.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkPlaylistArray.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkPositionSourceType.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkPositioningInfo.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkRamp.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkSegmentInfo.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkSourceSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkStreamMgrSettings.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkTransform.cs
+Assets/Wwise/Deployment/API/Generated/Common/AkVector.cs
+Assets/Wwise/Deployment/API/Generated/Common/DynamicSequenceType.cs
+Assets/Wwise/Deployment/API/Generated/Common/EnvelopePoint.cs
+Assets/Wwise/Deployment/API/Generated/Common/ErrorCode.cs
+Assets/Wwise/Deployment/API/Generated/Common/ErrorLevel.cs
+Assets/Wwise/Deployment/API/Generated/Common/Iterator.cs
+Assets/Wwise/Deployment/API/Generated/Common/MultiPositionType.cs
+Assets/Wwise/Deployment/API/Generated/Common/Playlist.cs
+Assets/Wwise/Deployment/API/Generated/Common/PlaylistItem.cs
+Assets/Wwise/Deployment/API/Generated/Common/PreparationType.cs
+Assets/Wwise/Deployment/API/Generated/Common/RTPCValue_type.cs
+Assets/Wwise/Deployment/API/Generated/Common/WwiseObjectID.cs
+Assets/Wwise/Deployment/API/Generated/Common/WwiseObjectIDext.cs
+Assets/Wwise/Deployment/API/Generated/Common/_ArrayPoolDefault.cs
+Assets/Wwise/Deployment/API/Generated/Common/_ArrayPoolLEngineDefault.cs
+Assets/Wwise/Deployment/API/Generated/Mac/AkAudioOutputType_Mac.cs
+Assets/Wwise/Deployment/API/Generated/Mac/AkMemPoolAttributes_Mac.cs
+Assets/Wwise/Deployment/API/Generated/Mac/AkPlatformInitSettings_Mac.cs
+Assets/Wwise/Deployment/API/Generated/Mac/AkSoundEnginePINVOKE_Mac.cs
+Assets/Wwise/Deployment/API/Generated/Mac/AkSoundEngine_Mac.cs
+Assets/Wwise/Deployment/API/Generated/Mac/AkThreadProperties_Mac.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkAudioAPI_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkAudioOutputType_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkMemPoolAttributes_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkPlatformInitSettings_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkSoundEnginePINVOKE_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkSoundEngine_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkSoundQuality_Windows.cs
+Assets/Wwise/Deployment/API/Generated/Windows/AkThreadProperties_Windows.cs
+Assets/Wwise/Deployment/API/Handwritten/AkAutoObject.cs
+Assets/Wwise/Deployment/API/Handwritten/AkAuxSendArray.cs
+Assets/Wwise/Deployment/API/Handwritten/AkCallbackManager.cs
+Assets/Wwise/Deployment/API/Handwritten/AkChannelEmitterArray.cs
+Assets/Wwise/Deployment/API/Handwritten/AkPositionArray.cs
+Assets/Wwise/Deployment/Components/AkAmbient.cs
+Assets/Wwise/Deployment/Components/AkAudioListener.cs
+Assets/Wwise/Deployment/Components/AkBank.cs
+Assets/Wwise/Deployment/Components/AkBankManager.cs
+Assets/Wwise/Deployment/Components/AkBasePathGetter.cs
+Assets/Wwise/Deployment/Components/AkDragDropHelper.cs
+Assets/Wwise/Deployment/Components/AkEnvironment.cs
+Assets/Wwise/Deployment/Components/AkEnvironmentPortal.cs
+Assets/Wwise/Deployment/Components/AkEvent.cs
+Assets/Wwise/Deployment/Components/AkEventCallbackData.cs
+Assets/Wwise/Deployment/Components/AkGameObj.cs
+Assets/Wwise/Deployment/Components/AkGameObjEnvironmentData.cs
+Assets/Wwise/Deployment/Components/AkGameObjPosOffsetData.cs
+Assets/Wwise/Deployment/Components/AkGameObjPositionData.cs
+Assets/Wwise/Deployment/Components/AkGameObjPositionOffsetData.cs
+Assets/Wwise/Deployment/Components/AkInitializer.cs
+Assets/Wwise/Deployment/Components/AkMemBankLoader.cs
+Assets/Wwise/Deployment/Components/AkState.cs
+Assets/Wwise/Deployment/Components/AkSwitch.cs
+Assets/Wwise/Deployment/Components/AkTerminator.cs
+Assets/Wwise/Deployment/Components/AkTriggerBase.cs
+Assets/Wwise/Deployment/Components/AkTriggerCollisionEnter.cs
+Assets/Wwise/Deployment/Components/AkTriggerCollisionExit.cs
+Assets/Wwise/Deployment/Components/AkTriggerDisable.cs
+Assets/Wwise/Deployment/Components/AkTriggerEnable.cs
+Assets/Wwise/Deployment/Components/AkTriggerEnter.cs
+Assets/Wwise/Deployment/Components/AkTriggerExit.cs
+Assets/Wwise/Deployment/Components/AkTriggerMouseDown.cs
+Assets/Wwise/Deployment/Components/AkTriggerMouseEnter.cs
+Assets/Wwise/Deployment/Components/AkTriggerMouseExit.cs
+Assets/Wwise/Deployment/Components/AkTriggerMouseUp.cs
+Assets/Wwise/Deployment/Components/AkUnityEventHandler.cs
+Assets/Wwise/Deployment/Components/AkUtilities.cs
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Xml.Linq.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.Lang.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\Boo.Lang.dll"
+-sdk:unity
+
+-----CompilerOutput:-stdout--exitcode: 0--compilationhadfailure: False--outfile: Temp/Assembly-CSharp.dll
+Compilation succeeded - 2 warning(s)
+-----CompilerOutput:-stderr----------
+Assets/KinectDemos/OverlayDemo/Scripts/LinePainter.cs(94,17): warning CS0618: `UnityEngine.LineRenderer.SetVertexCount(int)' is obsolete: `SetVertexCount has been deprecated. Please use the numPositions property instead.'
+Assets/Scripts/Ball.cs(13,15): warning CS0219: The variable `size' is assigned but its value is never used
+-----EndCompilerOutput---------------
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+WeaveUnetFromEditor Temp/Assembly-CSharp.dll
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Runtime/UnityEngine.VR.dll' because we're compiling for Editor
+WeaveAssemblies unityPath= C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll
+WeaveAssemblies unetPath= C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+Symbols will be read from Temp/Assembly-CSharp.dll.mdb
+Script Module: Assembly-CSharp.dll
+Pass: 0 took 8 milliseconds
+Pass: 1 took 8 milliseconds
+Assets/KinectDemos/OverlayDemo/Scripts/LinePainter.cs(94,17): warning CS0618: `UnityEngine.LineRenderer.SetVertexCount(int)' is obsolete: `SetVertexCount has been deprecated. Please use the numPositions property instead.'
+ 
+(Filename: Assets/KinectDemos/OverlayDemo/Scripts/LinePainter.cs Line: 94)
+
+Assets/Scripts/Ball.cs(13,15): warning CS0219: The variable `size' is assigned but its value is never used
+ 
+(Filename: Assets/Scripts/Ball.cs Line: 13)
+
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Runtime/UnityEngine.VR.dll' because we're compiling for Editor
+- starting compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll, for buildtarget 5
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+WeaveUnetFromEditor Temp/Assembly-CSharp-Editor.dll
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Standalone/UnityEngine.Networking.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor
+Ignoring 'C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Runtime/UnityEngine.VR.dll' because we're compiling for Editor
+WeaveAssemblies unityPath= C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll
+WeaveAssemblies unetPath= C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\UnityEngine.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.Locator.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.West.dll (this message is harmless)
+Registering custom dll's ...
+Register platform support module: C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport/UnityEditor.WSA.Extensions.dll
+Register platform support module: C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Core.dll (this message is harmless)
+Registered in 0.088687 seconds.
+Non platform assembly: D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\5.5.0\Unity.PackageManager.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PackageManager\Unity\PackageManager\5.5.0\Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\Editor\UnityEditor.Advertisements.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\Editor\UnityEditor.Advertisements.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\nunit.framework.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\nunit.framework.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\UnityEditor.EditorTestsRunner.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner\Editor\UnityEditor.EditorTestsRunner.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\Editor\UnityEditor.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\Editor\UnityEditor.PlaymodeTestsRunner.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\UnityEngine.Analytics.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\Editor\UnityEditor.Analytics.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\Editor\UnityEditor.Analytics.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll into Unity Child Domain
+Non platform assembly: C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\RuntimeEditor\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\RuntimeEditor\UnityEngine.VR.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Assets\KinectScripts\LZ4Sharp\LZ4Sharp.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Assets\KinectScripts\LZ4Sharp\LZ4Sharp.dll into Unity Child Domain
+Non platform assembly: D:\CodeTN Kinect Game\Assets\KinectScripts\SharpZipLib\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading D:\CodeTN Kinect Game\Assets\KinectScripts\SharpZipLib\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.WSA.Extensions.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.WSA.Extensions.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport\UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll (this message is harmless)
+Loading C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.dll (this message is harmless)
+Loading C:\Program Files\Unity\Editor\Data\Managed\Mono.Cecil.dll into Unity Child Domain
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\nunit.core.interfaces.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 17.64 ms, found 5 plugins.
+Preloading 2 native plugins for Editor in 0.13 ms.
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.DataContract.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\ICSharpCode.NRefactory.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\Unity.IvyParser.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Managed\nunit.core.dll (this message is harmless)
+Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll (this message is harmless)
+Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\2015\Editor\SyntaxTree.Mono.Cecil.dll (this message is harmless)
+Mono: successfully reloaded assembly
+Refreshing native plugins compatible for Editor in 1.03 ms, found 5 plugins.
+Preloading 2 native plugins for Editor in 0.16 ms.
+
+----- Total AssetImport time: 0.073225s, AssetImport time: 0.000000s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+- Completed reload, in  1.430 seconds
+Initializing Unity.PackageManager (PackageManager) v5.5.0 for Unity v5.5.0f3
+Setting WebGL v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\PlaybackEngines\WebGLSupport
+Setting StandaloneWindows v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport
+Setting WSAPlayer v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport
+Setting Advertisements v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Advertisements
+  UnityEngine.Advertisements.dll (Extension) GUID: 739bbd9f364b4268874f9fd86ab3beef
+  Editor/UnityEditor.Advertisements.dll (Extension) GUID: 97decbdab0634cdd991f8d23ddf0dead
+Setting EditorTestsRunner v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\EditorTestsRunner
+  Editor/nunit.framework.dll (Extension) GUID: 7cbab2be89b54486bbd23a6fe637d30e
+  Editor/UnityEditor.EditorTestsRunner.dll (Extension) GUID: 3c0ad459c1534645b5d603b7cc258f97
+Setting GUISystem v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\GUISystem
+  UnityEngine.UI.dll (Extension) GUID: f5f67c52d1564df4a8936ccd202a3bd8
+  Standalone/UnityEngine.UI.dll (Extension) GUID: f70555f144d8491a825f0804e09c671c
+  Editor/UnityEditor.UI.dll (Extension) GUID: 80a3616ca19596e4da0f10f14d241e9f
+Setting UNetHLAPI v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\Networking
+  UnityEngine.Networking.dll (Extension) GUID: 870353891bb340e2b2a9c8707e7419ba
+  Standalone/UnityEngine.Networking.dll (Extension) GUID: dc443db3e92b4983b9738c1131f555cb
+  Editor/UnityEditor.Networking.dll (Extension) GUID: 5f32cd94baa94578a686d4b9d6b660f7
+Setting PlaymodeTestsRunner v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\PlaymodeTestsRunner
+  Editor/UnityEditor.PlaymodeTestsRunner.dll (Extension) GUID: 4113173d5e95493ab8765d7b08371de4
+  UnityEngine.PlaymodeTestsRunner.dll (Extension) GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
+Setting TreeEditor v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor
+  Editor/UnityEditor.TreeEditor.dll (Extension) GUID: adebbd281f1a4ef3a30be7f21937e02f
+Setting UnityAnalytics v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics
+  UnityEngine.Analytics.dll (Extension) GUID: 852E56802EB941638ACBB491814497B0
+  Editor/UnityEditor.Analytics.dll (Extension) GUID: 86f4de9468454445ac2f39e207fafa3a
+Setting UnityHoloLens v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens
+  Editor/UnityEditor.HoloLens.dll (Extension) GUID: 12fd8a0055b84bb59e84c9835a37e333
+  Runtime/UnityEngine.HoloLens.dll (Extension) GUID: f7b54ff4a43d4fcf81b4538b678e0bcc
+  RuntimeEditor/UnityEngine.HoloLens.dll (Extension) GUID: 1c6d1fbb51834b64847b1b73a75bfc77
+Setting UnityPurchasing v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityPurchasing
+  UnityEngine.Purchasing.dll (Extension) GUID: 8E0CD8ED44D4412CBE0642067ABC9E44
+Setting UnityVR v5.5.0 for Unity v5.5.0f3 to C:\Program Files\Unity\Editor\Data\UnityExtensions\Unity\UnityVR
+  Editor/UnityEditor.VR.dll (Extension) GUID: 4ba2329b63d54f0187bcaa12486b1b0f
+  Runtime/UnityEngine.VR.dll (Extension) GUID: 6cdf1e5c78d14720aaadccd4C792df96
+  RuntimeEditor/UnityEngine.VR.dll (Extension) GUID: 307433eba81a469ab1e2084d52d1a5a2
+Registering platform support modules:
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: C:\Program Files\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.Lang.dll (this message is harmless)
+Registered platform support modules in: 0.0421691s.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Native extension for Metro target not found

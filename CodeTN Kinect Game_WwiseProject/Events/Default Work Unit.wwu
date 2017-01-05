@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F138569E-ECA7-4ADF-9936-86973FFEE827}" SchemaVersion="75">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{F138569E-ECA7-4ADF-9936-86973FFEE827}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="AcornHit" ID="{FC947A72-3735-4586-A37B-713617F69773}">
+					<ChildrenList>
+						<Action Name="Play" ID="{694E4CF3-22AA-4887-B608-D8A6B3085368}" ShortID="645315455" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{AD3A17C5-4389-4057-88A3-C00DBBD783A2}" Global="false">
+									<ObjectRef Name="368606__samsterbirdies__thump" ID="{7A236A49-98DB-4EBA-B3B7-D20227100A34}" WorkUnitID="{D8133F4D-B7BC-4E84-8626-23260D3AC9FD}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
