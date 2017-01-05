@@ -24,7 +24,7 @@
 				<Event Id="2632570123" Name="AcornHit" ObjectPath="\Events\Default Work Unit\AcornHit"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
-				<File Id="627063341" Language="SFX">
+				<File Id="681569679" Language="SFX">
 					<ShortName>368606__samsterbirdies__thump.wav</ShortName>
 					<Path>SFX\368606__samsterbirdies__thump_9E69E797.wem</Path>
 				</File>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{D8133F4D-B7BC-4E84-8626-23260D3AC9FD}" SchemaVersion="75">
+<WwiseDocument Type="WorkUnit" ID="{B96EF27E-BC92-47E6-BA95-01F5B8ECA10A}" SchemaVersion="75">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{D8133F4D-B7BC-4E84-8626-23260D3AC9FD}" PersistMode="Standalone">
+		<WorkUnit Name="Default Work Unit" ID="{B96EF27E-BC92-47E6-BA95-01F5B8ECA10A}" PersistMode="Standalone">
 			<ChildrenList>
-				<Sound Name="368606__samsterbirdies__thump" ID="{7A236A49-98DB-4EBA-B3B7-D20227100A34}" ShortID="9106995" Type="SoundFX">
+				<Sound Name="368606__samsterbirdies__thump" ID="{6326EE15-8175-4D4A-9952-B5D6293AE140}" ShortID="970720405" Type="SoundFX">
 					<ReferenceList>
 						<Reference Name="Conversion">
-							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{C12964F9-B36E-4119-BEF1-8DF2291817DC}"/>
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B69FB69B-FF7C-450C-93BB-074E8155058C}"/>
 						</Reference>
 						<Reference Name="OutputBus">
-							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{0C8FBD53-396D-44EA-96DE-BCAB62A52DED}"/>
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D5E4A3DB-93FA-477E-861D-C396F82705A1}"/>
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
-						<AudioFileSource Name="368606__samsterbirdies__thump" ID="{3DA8F239-BF64-4EE8-B2F0-7F47368A8EB5}" ShortID="627063341">
+						<AudioFileSource Name="368606__samsterbirdies__thump" ID="{76E1C8DC-B400-44C8-A77E-60A0C1BBCCC9}" ShortID="681569679">
 							<Language>SFX</Language>
 							<AudioFile>368606__samsterbirdies__thump.wav</AudioFile>
 						</AudioFileSource>
 					</ChildrenList>
 					<ActiveSourceList>
-						<ActiveSource Name="368606__samsterbirdies__thump" ID="{3DA8F239-BF64-4EE8-B2F0-7F47368A8EB5}" Platform="Linked"/>
+						<ActiveSource Name="368606__samsterbirdies__thump" ID="{76E1C8DC-B400-44C8-A77E-60A0C1BBCCC9}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
 			</ChildrenList>

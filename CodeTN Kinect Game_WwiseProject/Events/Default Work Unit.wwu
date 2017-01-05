@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{F138569E-ECA7-4ADF-9936-86973FFEE827}" SchemaVersion="75">
+<WwiseDocument Type="WorkUnit" ID="{4A3448EE-BDFB-4FEB-BC11-7C6B2DDA2A10}" SchemaVersion="75">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{F138569E-ECA7-4ADF-9936-86973FFEE827}" PersistMode="Standalone">
+		<WorkUnit Name="Default Work Unit" ID="{4A3448EE-BDFB-4FEB-BC11-7C6B2DDA2A10}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="AcornHit" ID="{FC947A72-3735-4586-A37B-713617F69773}">
+				<Event Name="AcornHit" ID="{C47D8638-A94B-42CA-BF51-CA58B9D64DB9}">
 					<ChildrenList>
-						<Action Name="Play" ID="{694E4CF3-22AA-4887-B608-D8A6B3085368}" ShortID="645315455" Type="Play" Scope="One" Global="false">
+						<Action Name="Play" ID="{9CF1ACBF-0C10-4FF6-90AA-40EE36A79EB8}" ShortID="344478330" Type="Play" Scope="One" Global="false">
 							<ElementList>
-								<Element ID="{AD3A17C5-4389-4057-88A3-C00DBBD783A2}" Global="false">
-									<ObjectRef Name="368606__samsterbirdies__thump" ID="{7A236A49-98DB-4EBA-B3B7-D20227100A34}" WorkUnitID="{D8133F4D-B7BC-4E84-8626-23260D3AC9FD}"/>
+								<Element ID="{FB45C9D0-2718-47BE-8097-FD3EF3D68031}" Global="false">
+									<ObjectRef Name="368606__samsterbirdies__thump" ID="{6326EE15-8175-4D4A-9952-B5D6293AE140}" WorkUnitID="{B96EF27E-BC92-47E6-BA95-01F5B8ECA10A}"/>
 								</Element>
 							</ElementList>
 						</Action>

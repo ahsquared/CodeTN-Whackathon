@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{1C213B78-E3CD-4DED-B5D8-139F3A332848}" SchemaVersion="75">
+<WwiseDocument Type="WorkUnit" ID="{F1371075-A34B-4CD3-B41A-B1481B62A844}" SchemaVersion="75">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{1C213B78-E3CD-4DED-B5D8-139F3A332848}" PersistMode="Standalone">
+		<WorkUnit Name="Default Work Unit" ID="{F1371075-A34B-4CD3-B41A-B1481B62A844}" PersistMode="Standalone">
 			<ChildrenList>
-				<SoundBank Name="Main" ID="{2BFE1239-D39B-431E-A56A-91A510002D65}">
+				<SoundBank Name="Main" ID="{42744A97-4FF7-4102-AB25-2CDA5169E34C}">
 					<ObjectInclusionList>
-						<ObjectRef Name="AcornHit" ID="{FC947A72-3735-4586-A37B-713617F69773}" WorkUnitID="{F138569E-ECA7-4ADF-9936-86973FFEE827}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="AcornHit" ID="{C47D8638-A94B-42CA-BF51-CA58B9D64DB9}" WorkUnitID="{4A3448EE-BDFB-4FEB-BC11-7C6B2DDA2A10}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

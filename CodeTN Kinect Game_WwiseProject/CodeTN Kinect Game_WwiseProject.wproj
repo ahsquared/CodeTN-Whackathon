@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="Project" SchemaVersion="75" WwiseVersion="v2016.2.1" WwiseBuild="5995">
 	<ProjectInfo>
-		<Project Name="CodeTN Kinect Game_WwiseProject" ID="{FEED044E-BA60-4BD8-8451-4F2C4FBFC82D}">
+		<Project Name="CodeTN Kinect Game_WwiseProject" ID="{6F4187A4-6AE4-46E9-B932-5B9DE7E11123}">
 			<Platforms>
-				<Platform Name="Mac" ReferencePlatform="Mac" ID="{FB5F76BA-A592-4512-9700-A131A725DD8A}"/>
-				<Platform Name="Windows" ReferencePlatform="Windows" ID="{E7A6F21C-9429-4C3F-9E9F-EC03354D2FC2}"/>
+				<Platform Name="Mac" ReferencePlatform="Mac" ID="{FC4CA600-A609-48DB-BF03-370BBF7484F6}"/>
+				<Platform Name="Windows" ReferencePlatform="Windows" ID="{1F7DD01F-FDC5-4B17-AE69-BA054590E7CD}"/>
 			</Platforms>
 			<PropertyList>
 				<Property Name="DefaultLanguage" Type="int32" Value="12"/>
@@ -9714,7 +9714,7 @@
 					<Comment></Comment>
 					<ObsOccCurve CurveXType="Obstruction" CurveYType="Volume">
 						<PlatformCurve Platform="Linked" EnableCurve="true">
-							<Curve Name="" ID="{E50AB0A0-33B8-4620-969F-D716F9CAC824}">
+							<Curve Name="" ID="{FBC90C88-B706-4C63-B35C-348B8974B2C4}">
 								<PropertyList>
 									<Property Name="Flags" Type="int32" Value="3"/>
 								</PropertyList>
@@ -9735,7 +9735,7 @@
 					</ObsOccCurve>
 					<ObsOccCurve CurveXType="Obstruction" CurveYType="LPF">
 						<PlatformCurve Platform="Linked" EnableCurve="true">
-							<Curve Name="" ID="{0D6EC537-605F-4F8B-92EE-2914CB2D9A29}">
+							<Curve Name="" ID="{8173623B-510C-499D-BA66-F4BBB841DC52}">
 								<PropertyList>
 									<Property Name="Flags" Type="int32" Value="1"/>
 								</PropertyList>
@@ -9756,7 +9756,7 @@
 					</ObsOccCurve>
 					<ObsOccCurve CurveXType="Obstruction" CurveYType="HPF">
 						<PlatformCurve Platform="Linked" EnableCurve="false">
-							<Curve Name="" ID="{D32AE10C-B4D1-4E0A-B2E3-6FEC02D8C2A7}">
+							<Curve Name="" ID="{AA595677-D92F-4B18-B75C-6F54F0561C98}">
 								<PropertyList>
 									<Property Name="Flags" Type="int32" Value="1"/>
 								</PropertyList>
@@ -9777,7 +9777,7 @@
 					</ObsOccCurve>
 					<ObsOccCurve CurveXType="Occlusion" CurveYType="Volume">
 						<PlatformCurve Platform="Linked" EnableCurve="true">
-							<Curve Name="" ID="{79EE4C60-7440-4E1F-969B-383CCF10D018}">
+							<Curve Name="" ID="{40AEFBB6-7629-45E3-81B7-6B569963A216}">
 								<PropertyList>
 									<Property Name="Flags" Type="int32" Value="3"/>
 								</PropertyList>
@@ -9798,7 +9798,7 @@
 					</ObsOccCurve>
 					<ObsOccCurve CurveXType="Occlusion" CurveYType="LPF">
 						<PlatformCurve Platform="Linked" EnableCurve="true">
-							<Curve Name="" ID="{3D6CD1A4-64DA-4056-81CB-0D230C908DF1}">
+							<Curve Name="" ID="{CE6D1426-FE50-45E4-A675-2D71C2ED5F50}">
 								<PropertyList>
 									<Property Name="Flags" Type="int32" Value="1"/>
 								</PropertyList>
@@ -9819,7 +9819,7 @@
 					</ObsOccCurve>
 					<ObsOccCurve CurveXType="Occlusion" CurveYType="HPF">
 						<PlatformCurve Platform="Linked" EnableCurve="false">
-							<Curve Name="" ID="{30EC0AE4-8F0A-4AD5-A5D5-CEE8E896E793}">
+							<Curve Name="" ID="{EBB05ACB-B771-471D-AB89-CBD5BF7D751F}">
 								<PropertyList>
 									<Property Name="Flags" Type="int32" Value="1"/>
 								</PropertyList>

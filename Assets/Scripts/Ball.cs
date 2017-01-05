@@ -6,9 +6,13 @@ public class Ball : MonoBehaviour {
     [Range(0,5)]
     public float ForceMultiplier = 1f;
 
+    private AudioMaster audioMaster;
+
 	// Use this for initialization
     void Start()
     {
+
+        audioMaster = GameObject.Find("WwiseGlobal").GetComponent<AudioMaster>();
 
         float size = Random.Range(0.4f, 1f);
 
@@ -44,7 +48,7 @@ public class Ball : MonoBehaviour {
             gameObject.GetComponent<Rigidbody>().AddForce(collision.impulse, ForceMode.Impulse);
             GameObject.Find("GameManager").GetComponent<GameManager>().UpdateScore(collision.gameObject.name);
         }
-        AkSoundEngine.PostEvent("AcornHit", gameObject);
+        audioMaster.PlayEvent("AcornHit");
     }
 
     private IEnumerator LaunchBall(float waitTime)

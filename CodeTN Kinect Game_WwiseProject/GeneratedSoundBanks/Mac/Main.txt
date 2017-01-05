@@ -2,5 +2,5 @@ Event	ID	Name			Wwise Object Path	Notes
 	2632570123	AcornHit			\Default Work Unit\AcornHit	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	627063341	368606__samsterbirdies__thump	D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\.cache\Mac\SFX\368606__samsterbirdies__thump_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\368606__samsterbirdies__thump		13724
+	681569679	368606__samsterbirdies__thump	D:\CodeTN Kinect Game\CodeTN Kinect Game_WwiseProject\.cache\Mac\SFX\368606__samsterbirdies__thump_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\368606__samsterbirdies__thump		13724
 
