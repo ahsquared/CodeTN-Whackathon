@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="72">
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2353840741" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1122231008" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1122596006" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Attenuations\Default Work Unit.wwu" DateLow="2116196002" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Audio Devices\Default Work Unit.wwu" DateLow="2116231001" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\CodeTN-KinectGame.Andre.wsettings" DateLow="3978584414" DateHigh="30566144"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\CodeTN-KinectGame.wproj" DateLow="4230268067" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Control Surface Sessions\Default Work Unit.wwu" DateLow="2116060989" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Conversion Settings\Default Work Unit.wwu" DateLow="2116376019" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1123661011" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Dynamic Dialogue\Default Work Unit.wwu" DateLow="2116130987" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Default Work Unit.wwu" DateLow="2115891014" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory Altiverb - Outdoor and More.wwu" DateLow="1607786234" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory Auro Headphone.wwu" DateLow="1144741013" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory Convolution Reverb Effects.wwu" DateLow="2353770767" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory Effects.wwu" DateLow="1121946001" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Box Modeler.wwu" DateLow="2353910744" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Delay.wwu" DateLow="1165905760" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Dynamics.wwu" DateLow="1170900739" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Filters.wwu" DateLow="1166545744" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1173785748" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1170570732" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1165785736" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory McDSP Effects.wwu" DateLow="1117846018" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Events\Default Work Unit.wwu" DateLow="2571734819" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Game Parameters\Default Work Unit.wwu" DateLow="2115955987" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1121605988" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="2116160986" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="2115739895" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Mixing Sessions\Default Work Unit.wwu" DateLow="2116335991" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Modulators\Default Work Unit.wwu" DateLow="2116305988" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Presets\Default Work Unit.wwu" DateLow="2116026006" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Queries\Default Work Unit.wwu" DateLow="2116270993" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Queries\Factory Queries.wwu" DateLow="1123135997" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\SoundBanks\Default Work Unit.wwu" DateLow="2882523249" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Soundcaster Sessions\Default Work Unit.wwu" DateLow="2116406141" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\States\Default Work Unit.wwu" DateLow="2115816027" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Switches\Default Work Unit.wwu" DateLow="2115990990" DateHigh="30566141"/>
-	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Triggers\Default Work Unit.wwu" DateLow="2116095988" DateHigh="30566141"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="832965463" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="833405436" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="833895368" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Attenuations\Default Work Unit.wwu" DateLow="833955571" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Audio Devices\Default Work Unit.wwu" DateLow="834015511" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\CodeTN-KinectGame.Andre.wsettings" DateLow="3591729969" DateHigh="30566279"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\CodeTN-KinectGame.wproj" DateLow="834285513" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Control Surface Sessions\Default Work Unit.wwu" DateLow="834350363" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Conversion Settings\Default Work Unit.wwu" DateLow="834410562" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Conversion Settings\Factory Conversion Settings.wwu" DateLow="834480359" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Dynamic Dialogue\Default Work Unit.wwu" DateLow="834535517" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Default Work Unit.wwu" DateLow="834600465" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory Altiverb - Outdoor and More.wwu" DateLow="834800370" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory Auro Headphone.wwu" DateLow="834865360" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory Convolution Reverb Effects.wwu" DateLow="835070371" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory Effects.wwu" DateLow="835165516" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Box Modeler.wwu" DateLow="835340361" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Delay.wwu" DateLow="835405371" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Dynamics.wwu" DateLow="835465369" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Filters.wwu" DateLow="835555566" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="835625520" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="835710573" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="835800520" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Effects\Factory McDSP Effects.wwu" DateLow="835265357" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Events\Default Work Unit.wwu" DateLow="835865370" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Game Parameters\Default Work Unit.wwu" DateLow="835925516" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="835980513" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="836420469" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="836480360" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Mixing Sessions\Default Work Unit.wwu" DateLow="836540366" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Modulators\Default Work Unit.wwu" DateLow="836600511" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Presets\Default Work Unit.wwu" DateLow="848147808" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Queries\Default Work Unit.wwu" DateLow="848207814" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Queries\Factory Queries.wwu" DateLow="848282674" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\SoundBanks\Default Work Unit.wwu" DateLow="848347811" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Soundcaster Sessions\Default Work Unit.wwu" DateLow="848417851" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\States\Default Work Unit.wwu" DateLow="848477762" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Switches\Default Work Unit.wwu" DateLow="848535609" DateHigh="30566278"/>
+	<ValidationCacheItem File="D:\CodeTN Kinect Game\CodeTN-KinectGame\Triggers\Default Work Unit.wwu" DateLow="848600763" DateHigh="30566278"/>
 </ValidationCache>

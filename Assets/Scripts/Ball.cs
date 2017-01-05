@@ -5,13 +5,11 @@ public class Ball : MonoBehaviour {
 
     [Range(0,5)]
     public float ForceMultiplier = 1f;
-
     void Awake()
     {
         AkSoundEngine.RegisterGameObj(gameObject);
 
     }
-
     // Use this for initialization
     void Start()
     {
