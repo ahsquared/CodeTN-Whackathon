@@ -4,9 +4,42 @@
 		<WorkUnit Name="Default Work Unit" ID="{2CBB8001-6D70-40E4-B0BC-1F0AE12736D4}" PersistMode="Standalone">
 			<ChildrenList>
 				<Sound Name="368606__samsterbirdies__thump" ID="{E5A2D178-0DEA-4ED6-98EC-4EE511D11AD3}" ShortID="477132334" Type="SoundFX">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<RTPCList>
+								<RTPC Name="" ID="{F25BB570-D185-4745-9F68-906CC1B58378}" ShortID="184799097">
+									<ReferenceList>
+										<Reference Name="ControlInput">
+											<ObjectRef Name="Velocity" ID="{6262614D-08AC-417D-88A2-7C9219C78E7C}" WorkUnitID="{43A4C508-129C-4F83-B85F-EC5524C2F750}"/>
+										</Reference>
+									</ReferenceList>
+									<Curve Name="" ID="{89061FA0-AAC4-41E8-B9F8-247BF49B3CE7}">
+										<PropertyList>
+											<Property Name="Flags" Type="int32" Value="3"/>
+										</PropertyList>
+										<PointList>
+											<Point>
+												<XPos>0</XPos>
+												<YPos>-11.8019</YPos>
+												<Flags>5</Flags>
+											</Point>
+											<Point>
+												<XPos>100</XPos>
+												<YPos>0</YPos>
+												<Flags>37</Flags>
+											</Point>
+										</PointList>
+									</Curve>
+								</RTPC>
+							</RTPCList>
+						</Property>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="Effect0" CompanyID="4095" PluginID="65535" PluginType="15">
+							<ObjectRef Name="Low_Pass_20KHz" ID="{830124FB-B9D5-4AE8-846E-E94A74652666}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
 						</Reference>
 						<Reference Name="OutputBus">
 							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>

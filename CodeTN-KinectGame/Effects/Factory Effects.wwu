@@ -621,8 +621,35 @@
 									<PropertyList>
 										<Property Name="FilterTypeBand1" Type="int32" Value="1"/>
 										<Property Name="FilterTypeBand3" Type="int32" Value="0"/>
+										<Property Name="FrequencyBand1" Type="Real32" Value="2220">
+											<RTPCList>
+												<RTPC Name="" ID="{41D2F8E1-D2AF-489B-AEC7-88D5A311426D}" ShortID="542117114">
+													<ReferenceList>
+														<Reference Name="ControlInput">
+															<ObjectRef Name="Velocity" ID="{6262614D-08AC-417D-88A2-7C9219C78E7C}" WorkUnitID="{43A4C508-129C-4F83-B85F-EC5524C2F750}"/>
+														</Reference>
+													</ReferenceList>
+													<Curve Name="" ID="{7D906730-5986-47C9-8278-4825AEDA46D3}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="5"/>
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>1980.49702</YPos>
+																<Flags>5</Flags>
+															</Point>
+															<Point>
+																<XPos>100</XPos>
+																<YPos>49.01427</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</RTPC>
+											</RTPCList>
+										</Property>
 										<Property Name="FrequencyBand3" Type="Real32" Value="20000"/>
-										<Property Name="OnOffBand1" Type="bool" Value="False"/>
 										<Property Name="OnOffBand2" Type="bool" Value="False"/>
 									</PropertyList>
 								</Effect>

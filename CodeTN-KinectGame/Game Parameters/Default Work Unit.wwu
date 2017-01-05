@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{43A4C508-129C-4F83-B85F-EC5524C2F750}" SchemaVersion="72">
 	<GameParameters>
-		<WorkUnit Name="Default Work Unit" ID="{43A4C508-129C-4F83-B85F-EC5524C2F750}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{43A4C508-129C-4F83-B85F-EC5524C2F750}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Velocity" ID="{6262614D-08AC-417D-88A2-7C9219C78E7C}"/>
+			</ChildrenList>
+		</WorkUnit>
 	</GameParameters>
 </WwiseDocument>

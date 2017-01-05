@@ -78,6 +78,10 @@ public class GameManager : MonoBehaviour {
     {
         GameObject.Find("ByronEmitter").GetComponent<BallEmitter>().StopEmitting();
         GameObject.Find("SmokeyEmitter").GetComponent<BallEmitter>().StopEmitting();
+        foreach (var acorn in GameObject.FindGameObjectsWithTag("Acorn"))
+        {
+            Destroy(acorn);
+        }
         Debug.Log("End Game (B vs S) " + _byronScore + " to " + _smokeyScore);
         ShowWinner();
     }

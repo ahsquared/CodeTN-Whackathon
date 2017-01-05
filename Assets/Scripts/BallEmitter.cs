@@ -46,8 +46,11 @@ public class BallEmitter : MonoBehaviour
     private IEnumerator LaunchBall(float waitTime, GameObject go)
     {
         yield return new WaitForSeconds(waitTime);
-        go.GetComponent<Rigidbody>().isKinematic = false;
-        //go.GetComponent<Rigidbody>().AddForce(new Vector3(Random.Range(-1f, 1f) * ForceMultiplier, 0, Random.Range(0f, 1f) * ForceMultiplier), ForceMode.Impulse);
+        if (_emit)
+        {
+            go.GetComponent<Rigidbody>().isKinematic = false;
+            //go.GetComponent<Rigidbody>().AddForce(new Vector3(Random.Range(-1f, 1f) * ForceMultiplier, 0, Random.Range(0f, 1f) * ForceMultiplier), ForceMode.Impulse);
+        }
 
     }
 }

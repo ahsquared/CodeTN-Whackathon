@@ -47,6 +47,7 @@ public class Ball : MonoBehaviour {
             gameObject.GetComponent<Rigidbody>().AddForce(collision.impulse, ForceMode.Impulse);
             GameObject.Find("GameManager").GetComponent<GameManager>().UpdateScore(collision.gameObject.name);
         }
+        AkSoundEngine.SetRTPCValue("Velocity", Random.Range(0, 100));
         AkSoundEngine.PostEvent("AcornHit", gameObject);
 
     }
