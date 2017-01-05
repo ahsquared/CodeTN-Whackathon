@@ -6,10 +6,15 @@ public class Ball : MonoBehaviour {
     [Range(0,5)]
     public float ForceMultiplier = 1f;
 
-	// Use this for initialization
+    void Awake()
+    {
+        AkSoundEngine.RegisterGameObj(gameObject);
+
+    }
+
+    // Use this for initialization
     void Start()
     {
-
         float size = Random.Range(0.4f, 1f);
 
         iTween.FadeTo(gameObject, iTween.Hash("delay", 5f, "alpha", 1f, "time", 1f, "oncomplete", "Remove"));
@@ -44,6 +49,8 @@ public class Ball : MonoBehaviour {
             gameObject.GetComponent<Rigidbody>().AddForce(collision.impulse, ForceMode.Impulse);
             GameObject.Find("GameManager").GetComponent<GameManager>().UpdateScore(collision.gameObject.name);
         }
+        AkSoundEngine.PostEvent("AcornHit", gameObject);
+
     }
 
     private IEnumerator LaunchBall(float waitTime)

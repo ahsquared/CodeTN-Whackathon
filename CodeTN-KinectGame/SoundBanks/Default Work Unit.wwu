@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6F0655AB-BB42-4F03-9346-6F20D1BBB648}" SchemaVersion="72">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{6F0655AB-BB42-4F03-9346-6F20D1BBB648}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{89C908DC-9D96-4743-AA95-14813449B94B}">
+					<ObjectInclusionList>
+						<ObjectRef Name="AcornHit" ID="{E63CEA7B-5B16-43AE-9E21-3CBA4F9660CA}" WorkUnitID="{53157FFE-B2EB-4634-81C0-16718DC13ED4}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

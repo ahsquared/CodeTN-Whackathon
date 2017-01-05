@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2CBB8001-6D70-40E4-B0BC-1F0AE12736D4}" SchemaVersion="72">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{2CBB8001-6D70-40E4-B0BC-1F0AE12736D4}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="368606__samsterbirdies__thump" ID="{E5A2D178-0DEA-4ED6-98EC-4EE511D11AD3}" ShortID="477132334" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="368606__samsterbirdies__thump" ID="{739A0F32-E032-467A-B37C-3B578B218B77}" ShortID="878642591">
+							<Language>SFX</Language>
+							<AudioFile>368606__samsterbirdies__thump.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="368606__samsterbirdies__thump" ID="{739A0F32-E032-467A-B37C-3B578B218B77}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
