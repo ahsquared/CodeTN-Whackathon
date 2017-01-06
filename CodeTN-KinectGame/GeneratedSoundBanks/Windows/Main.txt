@@ -1,12 +1,16 @@
 Event	ID	Name			Wwise Object Path	Notes
+	2317268941	Play_Bear_Facts_30_SEC_LOOP			\Default Work Unit\Play_Bear_Facts_30_SEC_LOOP	
 	2632570123	AcornHit			\Default Work Unit\AcornHit	
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
+	3432825351	GamePercentage			\Default Work Unit\GamePercentage	
 	3519441192	Velocity			\Default Work Unit\Velocity	
 
 Effect plug-ins	ID	Name	Type				Notes
+	70083276	Wwise Time Stretch (Custom)	Wwise Time Stretch			
 	1008402193	Low_Pass_20KHz	Wwise Parametric EQ			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	562613793	Bear Facts 30 SEC LOOP	D:\CodeTN Kinect Game\CodeTN-KinectGame\.cache\Windows\SFX\Bear Facts 30 SEC LOOP_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\Bear Facts 30 SEC LOOP\Bear Facts 30 SEC LOOP		5760068
 	878642591	368606__samsterbirdies__thump	D:\CodeTN Kinect Game\CodeTN-KinectGame\.cache\Windows\SFX\368606__samsterbirdies__thump_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\368606__samsterbirdies__thump		13724
 

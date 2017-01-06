@@ -20,7 +20,7 @@
 												<RTPC Name="" ID="{8969CFC7-3078-4CE7-9F7D-E1DA3BF787E5}" ShortID="394730548">
 													<ReferenceList>
 														<Reference Name="ControlInput">
-															<ObjectRef Name="GameTime" ID="{E2E32148-714A-4C78-A00B-53733EF6A552}" WorkUnitID="{43A4C508-129C-4F83-B85F-EC5524C2F750}"/>
+															<ObjectRef Name="GamePercentage" ID="{E2E32148-714A-4C78-A00B-53733EF6A552}" WorkUnitID="{43A4C508-129C-4F83-B85F-EC5524C2F750}"/>
 														</Reference>
 													</ReferenceList>
 													<Curve Name="" ID="{938E0A68-26CE-4A2F-A19C-0C05F5CD1A96}">
@@ -32,6 +32,11 @@
 																<XPos>0</XPos>
 																<YPos>100</YPos>
 																<Flags>5</Flags>
+															</Point>
+															<Point>
+																<XPos>60</XPos>
+																<YPos>80</YPos>
+																<Flags>0</Flags>
 															</Point>
 															<Point>
 																<XPos>100</XPos>
@@ -92,7 +97,7 @@
 														</PropertyList>
 														<PointList>
 															<Point>
-																<XPos>-0</XPos>
+																<XPos>0</XPos>
 																<YPos>0</YPos>
 																<Flags>5</Flags>
 															</Point>
@@ -111,7 +116,7 @@
 														</PropertyList>
 														<PointList>
 															<Point>
-																<XPos>-0</XPos>
+																<XPos>0</XPos>
 																<YPos>0</YPos>
 																<Flags>5</Flags>
 															</Point>
@@ -130,7 +135,7 @@
 														</PropertyList>
 														<PointList>
 															<Point>
-																<XPos>-0</XPos>
+																<XPos>0</XPos>
 																<YPos>0</YPos>
 																<Flags>5</Flags>
 															</Point>
@@ -155,6 +160,24 @@
 							<PropertyList>
 								<Property Name="CueType" Type="int16" Value="1"/>
 								<Property Name="TimeMs" Type="Real64" Value="30000.0208333333"/>
+							</PropertyList>
+						</MusicCue>
+						<MusicCue Name="FirstSpeedUp" ID="{B88F6522-86CA-45DF-A258-B50642138D3A}">
+							<PropertyList>
+								<Property Name="CueType" Type="int16" Value="2"/>
+								<Property Name="TimeMs" Type="Real64" Value="19999.5325755327"/>
+							</PropertyList>
+						</MusicCue>
+						<MusicCue Name="SecondSpeedUp" ID="{5F4E69B5-5D9D-4B35-96B2-6611410CCBBE}">
+							<PropertyList>
+								<Property Name="CueType" Type="int16" Value="2"/>
+								<Property Name="TimeMs" Type="Real64" Value="24007.4823716135"/>
+							</PropertyList>
+						</MusicCue>
+						<MusicCue Name="Test" ID="{D2CD0483-4C58-484B-875B-1C9D5C358A2A}">
+							<PropertyList>
+								<Property Name="CueType" Type="int16" Value="2"/>
+								<Property Name="TimeMs" Type="Real64" Value="1717.45271622037"/>
 							</PropertyList>
 						</MusicCue>
 					</CueList>

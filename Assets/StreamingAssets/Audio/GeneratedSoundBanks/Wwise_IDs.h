@@ -14,10 +14,12 @@ namespace AK
     namespace EVENTS
     {
         static const AkUniqueID ACORNHIT = 2632570123U;
+        static const AkUniqueID PLAY_BEAR_FACTS_30_SEC_LOOP = 2317268941U;
     } // namespace EVENTS
 
     namespace GAME_PARAMETERS
     {
+        static const AkUniqueID GAMEPERCENTAGE = 3432825351U;
         static const AkUniqueID SS_AIR_FEAR = 1351367891U;
         static const AkUniqueID SS_AIR_FREEFALL = 3002758120U;
         static const AkUniqueID SS_AIR_FURY = 1029930033U;

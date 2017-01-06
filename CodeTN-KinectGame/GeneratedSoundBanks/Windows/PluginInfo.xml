@@ -2,5 +2,6 @@
 <PluginInfo Project="CodeTN-KinectGame" Platform="Windows" BasePlatform="Windows">
 	<Plugins>
 		<Plugin Name="Wwise Parametric EQ" ID="6881283" DLL="ParametricEQ"/>
+		<Plugin Name="Wwise Time Stretch" ID="8519683" DLL="AkTimeStretch"/>
 	</Plugins>
 </PluginInfo>

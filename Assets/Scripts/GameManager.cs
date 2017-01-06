@@ -5,7 +5,7 @@ using UnityEngine;
 using Timers;
 using UnityEngine.UI;
 
-public class GameManager : MonoBehaviour {
+public class GameManager : AudioEvents {
 
     private int _byronScore = 0;
     private int _smokeyScore = 0;
@@ -19,6 +19,11 @@ public class GameManager : MonoBehaviour {
     public GameObject Tie;
     public GameObject Instructions;
     public GameObject Sponsors;
+
+    void Awake()
+    {
+        AkSoundEngine.RegisterGameObj(gameObject);
+    }
 
     // Use this for initialization
     void Start () {
@@ -62,6 +67,8 @@ public class GameManager : MonoBehaviour {
         _smokeyScore = 0;
         ResetScores();
         Instructions.SetActive(false);
+        SetRTPCValue("GameTime", 0);
+        PlayEvent("Play_Bear_Facts_30_SEC_LOOP");
         GameObject.Find("ByronEmitter").GetComponent<BallEmitter>().StartEmitting();
         GameObject.Find("SmokeyEmitter").GetComponent<BallEmitter>().StartEmitting();
         TimersManager.SetTimer(this, GameDuration, EndGame);

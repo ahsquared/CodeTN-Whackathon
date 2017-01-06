@@ -22,8 +22,13 @@
 			<Path>Main.bnk</Path>
 			<IncludedEvents>
 				<Event Id="2632570123" Name="AcornHit" ObjectPath="\Events\Default Work Unit\AcornHit"/>
+				<Event Id="2317268941" Name="Play_Bear_Facts_30_SEC_LOOP" ObjectPath="\Events\Default Work Unit\Play_Bear_Facts_30_SEC_LOOP"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="562613793" Language="SFX">
+					<ShortName>Bear Facts 30 SEC LOOP.wav</ShortName>
+					<Path>SFX\Bear Facts 30 SEC LOOP_4B8CC0C5.wem</Path>
+				</File>
 				<File Id="878642591" Language="SFX">
 					<ShortName>368606__samsterbirdies__thump.wav</ShortName>
 					<Path>SFX\368606__samsterbirdies__thump_9E69E797.wem</Path>
