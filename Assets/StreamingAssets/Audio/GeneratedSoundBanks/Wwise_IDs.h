@@ -14,6 +14,8 @@ namespace AK
     namespace EVENTS
     {
         static const AkUniqueID ACORNHIT = 2632570123U;
+        static const AkUniqueID BIRDSONG = 3886820807U;
+        static const AkUniqueID CRICKETS = 1443984213U;
         static const AkUniqueID PLAY_BEAR_FACTS_30_SEC_LOOP = 2317268941U;
     } // namespace EVENTS
 

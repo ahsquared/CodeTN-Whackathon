@@ -25,15 +25,14 @@ public class AudioEvents : MonoBehaviour {
     }
 
     private void MusicCallback(object in_cookie, AkCallbackType in_type, object in_info)
-
     {
-        Debug.Log(in_cookie);
-        Debug.Log(in_type);
-        Debug.Log(in_info);
 
         if (in_type == AkCallbackType.AK_MusicSyncUserCue)
 
         {
+            Debug.Log(in_cookie);
+            Debug.Log(in_type);
+            Debug.Log(in_info);
             AkCallbackManager.AkMusicSyncCallbackInfo musicInfo = (AkCallbackManager.AkMusicSyncCallbackInfo) in_info;
             Debug.Log("cue time: " + musicInfo.segmentInfo.iCurrentPosition + " , duration: " + musicInfo.segmentInfo.iActiveDuration);
             int cueTime = musicInfo.segmentInfo.iCurrentPosition;

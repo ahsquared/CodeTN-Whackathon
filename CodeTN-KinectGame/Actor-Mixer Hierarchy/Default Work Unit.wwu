@@ -132,6 +132,9 @@
 					</ActiveSourceList>
 				</Sound>
 				<Sound Name="VSFX003_05Forest With Bird Song and Crow_aif" ID="{28BE278F-7A8F-4C7F-87D2-D0E0B3A75A91}" ShortID="97290064" Type="SoundFX">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
@@ -208,6 +211,9 @@
 					</ActiveSourceList>
 				</Sound>
 				<Sound Name="VSFX027_01Jar Flies_aif" ID="{3EA87BA0-2378-4D68-9076-1980004631DD}" ShortID="115944679" Type="SoundFX">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>

@@ -22,15 +22,23 @@ public class GameManager : AudioEvents {
 
     void Awake()
     {
-        AkSoundEngine.RegisterGameObj(gameObject);
+        
     }
 
     // Use this for initialization
-    void Start () {
+    void Start ()
+    {
+        AkSoundEngine.RegisterGameObj(gameObject);
+        PlayAmbientSound();
         StartGame();
     }
-	
-	// Update is called once per frame
+
+    private void PlayAmbientSound()
+    {
+        PlayEvent("Crickets");
+    }
+
+    // Update is called once per frame
 	void Update () {
 		
 	}

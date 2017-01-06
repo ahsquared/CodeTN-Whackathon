@@ -168,12 +168,6 @@
 								<Property Name="TimeMs" Type="Real64" Value="19999.5325755327"/>
 							</PropertyList>
 						</MusicCue>
-						<MusicCue Name="SecondSpeedUp" ID="{5F4E69B5-5D9D-4B35-96B2-6611410CCBBE}">
-							<PropertyList>
-								<Property Name="CueType" Type="int16" Value="2"/>
-								<Property Name="TimeMs" Type="Real64" Value="24007.4823716135"/>
-							</PropertyList>
-						</MusicCue>
 						<MusicCue Name="Test" ID="{D2CD0483-4C58-484B-875B-1C9D5C358A2A}">
 							<PropertyList>
 								<Property Name="CueType" Type="int16" Value="2"/>

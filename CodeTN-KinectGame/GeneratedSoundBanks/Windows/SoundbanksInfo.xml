@@ -22,9 +22,19 @@
 			<Path>Main.bnk</Path>
 			<IncludedEvents>
 				<Event Id="2632570123" Name="AcornHit" ObjectPath="\Events\Default Work Unit\AcornHit"/>
+				<Event Id="3886820807" Name="Birdsong" ObjectPath="\Events\Default Work Unit\Birdsong"/>
+				<Event Id="1443984213" Name="Crickets" ObjectPath="\Events\Default Work Unit\Crickets"/>
 				<Event Id="2317268941" Name="Play_Bear_Facts_30_SEC_LOOP" ObjectPath="\Events\Default Work Unit\Play_Bear_Facts_30_SEC_LOOP"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="291937973" Language="SFX">
+					<ShortName>VSFX027_01Jar Flies.aif.wav</ShortName>
+					<Path>SFX\VSFX027_01Jar Flies.aif_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="403401549" Language="SFX">
+					<ShortName>VSFX003_05Forest With Bird Song and Crow.aif.wav</ShortName>
+					<Path>SFX\VSFX003_05Forest With Bird Song and Crow.aif_4B8CC0C5.wem</Path>
+				</File>
 				<File Id="562613793" Language="SFX">
 					<ShortName>Bear Facts 30 SEC LOOP.wav</ShortName>
 					<Path>SFX\Bear Facts 30 SEC LOOP_4B8CC0C5.wem</Path>
