@@ -55,6 +55,443 @@
 						<ActiveSource Name="368606__samsterbirdies__thump" ID="{739A0F32-E032-467A-B37C-3B578B218B77}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="Bear Grunt" ID="{A25D6E4D-4631-40E8-BB63-FA5B2C031F6F}" ShortID="520019446" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Bear Grunt" ID="{1ADD18F1-0710-4B82-BFB4-81A1D4C216EA}" ShortID="460500966">
+							<Language>SFX</Language>
+							<AudioFile>Bear Grunt.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Bear Grunt" ID="{1ADD18F1-0710-4B82-BFB4-81A1D4C216EA}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Bear WAITING with forest" ID="{C91C4D55-830E-444D-A4CD-787C2920BD1D}" ShortID="50550026" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Bear WAITING with forest" ID="{E27828C0-E2A4-47FE-A060-0025B778B18C}" ShortID="307967596">
+							<Language>SFX</Language>
+							<AudioFile>Bear WAITING with forest.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Bear WAITING with forest" ID="{E27828C0-E2A4-47FE-A060-0025B778B18C}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Bear WAITING" ID="{D6AE6B73-FB94-4863-80CF-F4E8C1C92DF4}" ShortID="920006599" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Bear WAITING" ID="{61DD3CEC-11DA-4898-A387-3838A778315E}" ShortID="1057391246">
+							<Language>SFX</Language>
+							<AudioFile>Bear WAITING.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Bear WAITING" ID="{61DD3CEC-11DA-4898-A387-3838A778315E}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Timp Hit" ID="{10EA67B9-651C-4275-8001-D0C33A3A6969}" ShortID="48202258" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Timp Hit" ID="{F548B80C-BE8C-413A-B4D9-CEDD881D7BF6}" ShortID="592244726">
+							<Language>SFX</Language>
+							<AudioFile>Timp Hit.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Timp Hit" ID="{F548B80C-BE8C-413A-B4D9-CEDD881D7BF6}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="VSFX003_05Forest With Bird Song and Crow_aif" ID="{28BE278F-7A8F-4C7F-87D2-D0E0B3A75A91}" ShortID="97290064" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="VSFX003_05Forest With Bird Song and Crow_aif" ID="{31C11B47-2A9F-4D65-9613-8092193B92F5}" ShortID="403401549">
+							<Language>SFX</Language>
+							<AudioFile>VSFX003_05Forest With Bird Song and Crow.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="VSFX003_05Forest With Bird Song and Crow_aif" ID="{31C11B47-2A9F-4D65-9613-8092193B92F5}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="VSFX005_02Footsteps On Gravel_aif" ID="{60575763-3FD6-495D-B15F-C8F2DAC06490}" ShortID="1050594085" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="VSFX005_02Footsteps On Gravel_aif" ID="{12FC19B9-C253-4878-8CE8-68C597C2025C}" ShortID="921514140">
+							<Language>SFX</Language>
+							<AudioFile>VSFX005_02Footsteps On Gravel.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="VSFX005_02Footsteps On Gravel_aif" ID="{12FC19B9-C253-4878-8CE8-68C597C2025C}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="VSFX005_03Footsteps On Ice_aif" ID="{B6184512-35DC-415F-B63B-D9D46B5D3311}" ShortID="64272486" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="VSFX005_03Footsteps On Ice_aif" ID="{9F801777-D6C1-4323-844D-70D11A7BC51A}" ShortID="472048893">
+							<Language>SFX</Language>
+							<AudioFile>VSFX005_03Footsteps On Ice.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="VSFX005_03Footsteps On Ice_aif" ID="{9F801777-D6C1-4323-844D-70D11A7BC51A}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="VSFX005_05Footsteps Through The Woods_aif" ID="{22DCBEBE-F983-491C-9F48-4363E2A721BF}" ShortID="199172869" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="VSFX005_05Footsteps Through The Woods_aif" ID="{E42FB9E7-D1A6-4A0C-97AC-4C82CAA202B1}" ShortID="772259859">
+							<Language>SFX</Language>
+							<AudioFile>VSFX005_05Footsteps Through The Woods.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="VSFX005_05Footsteps Through The Woods_aif" ID="{E42FB9E7-D1A6-4A0C-97AC-4C82CAA202B1}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="VSFX027_01Jar Flies_aif" ID="{3EA87BA0-2378-4D68-9076-1980004631DD}" ShortID="115944679" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="VSFX027_01Jar Flies_aif" ID="{0BC9EB67-64EA-4853-9C50-2A7E46551C44}" ShortID="291937973">
+							<Language>SFX</Language>
+							<AudioFile>VSFX027_01Jar Flies.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="VSFX027_01Jar Flies_aif" ID="{0BC9EB67-64EA-4853-9C50-2A7E46551C44}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="VSFX033_01Lip Pop_aif" ID="{0032742D-52FC-41C0-8F69-F7779B4F6FB6}" ShortID="108358398" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="VSFX033_01Lip Pop_aif" ID="{29A610AD-BF74-4028-AA35-2B61947A8D55}" ShortID="970200051">
+							<Language>SFX</Language>
+							<AudioFile>VSFX033_01Lip Pop.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="VSFX033_01Lip Pop_aif" ID="{29A610AD-BF74-4028-AA35-2B61947A8D55}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="WHACK A BEAR HIT 1_aif" ID="{818180F4-CCE7-4035-A0D4-8FF05FB45511}" ShortID="395977699" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="WHACK A BEAR HIT 1_aif" ID="{B506113C-0989-48D1-8534-6127FC96FA42}" ShortID="904085717">
+							<Language>SFX</Language>
+							<AudioFile>WHACK A BEAR HIT 1.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="WHACK A BEAR HIT 1_aif" ID="{B506113C-0989-48D1-8534-6127FC96FA42}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="WHACK A BEAR HIT 2_aif" ID="{AF244912-773E-4C08-AFC8-9A52D3CD7431}" ShortID="462536852" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="WHACK A BEAR HIT 2_aif" ID="{87923A91-C3F0-4745-8DE7-01DA6B32744B}" ShortID="1067424925">
+							<Language>SFX</Language>
+							<AudioFile>WHACK A BEAR HIT 2.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="WHACK A BEAR HIT 2_aif" ID="{87923A91-C3F0-4745-8DE7-01DA6B32744B}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="WHACK A BEAR HIT_aif" ID="{2DBA31E5-2043-457C-A2C7-7C87F0180E56}" ShortID="125407910" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="WHACK A BEAR HIT_aif" ID="{1CDF3DB8-7C2B-493D-9660-372233C9DC6A}" ShortID="620913374">
+							<Language>SFX</Language>
+							<AudioFile>WHACK A BEAR HIT.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="WHACK A BEAR HIT_aif" ID="{1CDF3DB8-7C2B-493D-9660-372233C9DC6A}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="WHACK A BEAR HIT_ MISS 1_aif" ID="{7FF2CB97-A1F4-4EC9-A72E-3C08792BD3FC}" ShortID="74793014" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="WHACK A BEAR HIT_ MISS 1_aif" ID="{2996E778-C437-4807-B69C-02538BAFEDCF}" ShortID="982587014">
+							<Language>SFX</Language>
+							<AudioFile>WHACK A BEAR HIT_ MISS 1.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="WHACK A BEAR HIT_ MISS 1_aif" ID="{2996E778-C437-4807-B69C-02538BAFEDCF}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="WHACK A BEAR HIT_ MISS 2_aif" ID="{EECECD99-DC7B-48D8-8922-7BB8A8703C99}" ShortID="607817874" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="WHACK A BEAR HIT_ MISS 2_aif" ID="{715C4342-537A-4950-A2E2-3C127596D544}" ShortID="259050281">
+							<Language>SFX</Language>
+							<AudioFile>WHACK A BEAR HIT_ MISS 2.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="WHACK A BEAR HIT_ MISS 2_aif" ID="{715C4342-537A-4950-A2E2-3C127596D544}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="WHACK A BEAR HIT_ MISS 3_aif" ID="{50D66D15-8612-49AB-A3C2-2443B95BAE7B}" ShortID="12920124" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="WHACK A BEAR HIT_ MISS 3_aif" ID="{E2FAB826-B858-4A8D-9AC2-00F701DC7234}" ShortID="851370062">
+							<Language>SFX</Language>
+							<AudioFile>WHACK A BEAR HIT_ MISS 3.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="WHACK A BEAR HIT_ MISS 3_aif" ID="{E2FAB826-B858-4A8D-9AC2-00F701DC7234}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="WHACK A BEAR HIT_ MISS 4_aif" ID="{DD3C988D-7567-4956-8261-64F0E7343D85}" ShortID="759550804" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="WHACK A BEAR HIT_ MISS 4_aif" ID="{BAA4AECD-934E-43FB-A524-4D9E5C5BCDDB}" ShortID="322272427">
+							<Language>SFX</Language>
+							<AudioFile>WHACK A BEAR HIT_ MISS 4.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="WHACK A BEAR HIT_ MISS 4_aif" ID="{BAA4AECD-934E-43FB-A524-4D9E5C5BCDDB}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="WHACK A BEAR HIT_ MISS 5_aif" ID="{CE27AEC5-60DD-4BE1-BC14-034F2F90699A}" ShortID="986710266" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="WHACK A BEAR HIT_ MISS 5_aif" ID="{89896EF1-39E1-40E1-B264-90FF1F3668B4}" ShortID="496863707">
+							<Language>SFX</Language>
+							<AudioFile>WHACK A BEAR HIT_ MISS 5.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="WHACK A BEAR HIT_ MISS 5_aif" ID="{89896EF1-39E1-40E1-B264-90FF1F3668B4}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="WHACK A BEAR HIT_ MISS 7_aif" ID="{0A7E94BE-2E04-449F-86A3-DE4717001BE2}" ShortID="898514078" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="WHACK A BEAR HIT_ MISS 7_aif" ID="{061FDE76-C614-4FAC-B2EA-EA6D4B6241F1}" ShortID="66541065">
+							<Language>SFX</Language>
+							<AudioFile>WHACK A BEAR HIT_ MISS 7.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="WHACK A BEAR HIT_ MISS 7_aif" ID="{061FDE76-C614-4FAC-B2EA-EA6D4B6241F1}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="WHACK A BEAR HIT_ MISS 8_aif" ID="{B2BF15B1-403A-4BDA-AAB6-86A6AE77A4FE}" ShortID="561583826" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="WHACK A BEAR HIT_ MISS 8_aif" ID="{DCF7F9BB-568E-4266-B528-1D38D8CF2BEE}" ShortID="145667044">
+							<Language>SFX</Language>
+							<AudioFile>WHACK A BEAR HIT_ MISS 8.aif.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="WHACK A BEAR HIT_ MISS 8_aif" ID="{DCF7F9BB-568E-4266-B528-1D38D8CF2BEE}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="WINNINGSFX_BEARGAME" ID="{782DAD23-A84D-4D83-A890-3717E85CF0C9}" ShortID="665824601" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="WINNINGSFX_BEARGAME" ID="{C024DE77-C2F9-4B59-92E6-EFF2D9AD398C}" ShortID="532558446">
+							<Language>SFX</Language>
+							<AudioFile>WINNINGSFX_BEARGAME.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="WINNINGSFX_BEARGAME" ID="{C024DE77-C2F9-4B59-92E6-EFF2D9AD398C}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="WINNINGSFX_NOBASS_BEARGAME" ID="{36B63BA3-FB9F-49EC-839C-6F54E3E8AE05}" ShortID="106567270" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="WINNINGSFX_NOBASS_BEARGAME" ID="{EEFEE568-9674-4A9F-AD3E-DE9B7F3BC900}" ShortID="808855732">
+							<Language>SFX</Language>
+							<AudioFile>WINNINGSFX_NOBASS_BEARGAME.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="WINNINGSFX_NOBASS_BEARGAME" ID="{EEFEE568-9674-4A9F-AD3E-DE9B7F3BC900}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="WINNINGSFX_NOBASS_SINGLESYNTH_BEARGAME" ID="{A288D637-5E54-401A-8F5B-A6769B4551CD}" ShortID="803331819" Type="SoundFX">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{195DAF06-5752-495E-B5FA-81F07A478AA2}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E9B9368E-EA27-4754-A62E-4777D62E8935}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="WINNINGSFX_NOBASS_SINGLESYNTH_BEARGAME" ID="{63F58443-EB5B-49FE-9F40-05E443FF7DA7}" ShortID="1037431869">
+							<Language>SFX</Language>
+							<AudioFile>WINNINGSFX_NOBASS_SINGLESYNTH_BEARGAME.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="WINNINGSFX_NOBASS_SINGLESYNTH_BEARGAME" ID="{63F58443-EB5B-49FE-9F40-05E443FF7DA7}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

@@ -14,6 +14,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_Bear_Facts_30_SEC_LOOP" ID="{5F9709A6-5F00-4562-842B-427CFF380618}">
+					<ChildrenList>
+						<Action Name="Play" ID="{CC3B10A8-05EC-4654-AB32-FED06BCE1911}" ShortID="595523091" Type="Play" Scope="One" Global="false">
+							<ElementList>
+								<Element ID="{814398C3-5E54-40FE-B195-998E86B59856}" Global="false">
+									<ObjectRef Name="Bear Facts 30 SEC LOOP" ID="{386811D6-0856-4457-B08A-D5F5215093FE}" WorkUnitID="{BA20685F-32F3-480C-9853-72B310B672CA}"/>
+								</Element>
+							</ElementList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
